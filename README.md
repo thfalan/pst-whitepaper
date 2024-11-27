@@ -2,11 +2,11 @@
 icon: bullseye-arrow
 ---
 
-# 1.1 About PST
+# About PST
 
-Profit Share Token (PST) lets investors earn monthly dividends from successful Amazon stores. Led by Qupital, a Hong Kong fintech company that has processed over US$1.3 billion in e-commerce financing, PST automatically shares a percentage of an Amazon store's revenue with token holders.
+Profit Share Token (PST) lets investors earn monthly dividends from successful e-commerce stores. Led by Qupital, a Hong Kong fintech company that has processed over US$1.3 billion in e-commerce financing, PST automatically shares a percentage of an e-commerce store's revenue with token holders.
 
-Think of it as buying shares in an Amazon store, but with three key advantages:
+Think of it as buying shares in an e-commerce store, but with three key advantages:
 
 * Monthly dividend payments
 * Immediate trading through crypto exchanges

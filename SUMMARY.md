@@ -2,9 +2,8 @@
 
 ## 1. Introduction
 
-* [1.1 About PST](README.md)
-* [1.2 Problem Statement](1.-introduction/publish-your-docs.md)
-* [1.3 Comparisons](1.-introduction/1.3-comparisons.md)
+* [About PST](README.md)
+* [Equity Financing](1.-introduction/publish-your-docs.md)
 
 ## 2. About Qupital
 

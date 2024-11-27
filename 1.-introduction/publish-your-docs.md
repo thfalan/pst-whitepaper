@@ -2,28 +2,26 @@
 icon: globe-pointer
 ---
 
-# 1.2 Problem Statement
+# Equity Financing
 
-### Current Challenges in E-commerce Business Expansion
+In today's digital economy, successful e-commerce businesses face a fundamental challenge: how to make their business value **liquid** and **tradeable**.
 
-Traditional financing options for successful Amazon merchants face three major hurdles:
+Traditional equity markets (IPOs) remain the primary path to liquidity, but come with significant drawbacks:
 
-1.  **Expensive IPO Process**
+* Costs upward of US$1.5 million in legal and audit fees
+* Requires 6-12 months of preparation
+* Success is not guaranteed despite the investment
+* Process is the same regardless of business size
 
-    1. Listing costs upward of US$1.5 million
-    2. Takes 6-12 months to complete
-    3. No guarantee of success
-    4. Recent e-commerce listings trade at low PE ratios (≈8x)
+Yet companies still pursue IPOs for one crucial benefit: converting their enterprise value into tradeable shares that anyone can buy and sell.
 
-
-2.  **Limited Access to Growth Capital**
-
-    1. Fixed repayment schedules don't match seasonal e-commerce cash flows
-    2. High interest rates despite strong business performance
+With the maturity of decentralized exchanges (DEX) and smart contracts, we now have an opportunity to achieve the same liquidity benefits without the traditional market's inefficiencies. By tokenizing e-commerce revenues through PST, both businesses and investors can access liquidity faster, cheaper, and more efficiently than ever before.
 
 
-3. **Inefficient Investment Access**
-   1. Investors can't easily participate in e-commerce success
-   2. No way to earn recurring revenue from top Amazon store
-   3. Private equity deals are restricted to large institutional investors
+
+## TradFi vs DeFi
+
+
+
+<table><thead><tr><th width="139"></th><th>TradFi</th><th>DeFi</th></tr></thead><tbody><tr><td>Listing Cost</td><td>US$1.5mil in audit and legal fees<br>Regulatory overhead</td><td>No Cost</td></tr><tr><td>Time Cost</td><td>6-12 months+</td><td>&#x3C;1 month</td></tr><tr><td>Trading</td><td>Business hours</td><td>24/7 AMM</td></tr><tr><td>Incentives</td><td>-</td><td>Protocol airdrop inventives<br>FA marketing incentives</td></tr><tr><td>Recourse</td><td>Legal</td><td>Automated through smart contract</td></tr></tbody></table>
 
