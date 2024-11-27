@@ -7,9 +7,8 @@
 
 ## 2. Qupital
 
-* [About Qupital](2.-qupital/markdown.md)
-* [2.2 Underwriting Track Record](2.-qupital/2.2-underwriting-track-record.md)
-* [2.3 Qupital's risk assessment](2.-qupital/interactive-blocks.md)
+* [About Qupital](2.-about-qupital/markdown.md)
+* [Underwriting](2.-about-qupital/interactive-blocks.md)
 
 ## 3. PST Token Features
 

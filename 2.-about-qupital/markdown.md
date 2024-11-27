@@ -1,7 +1,3 @@
----
-icon: markdown
----
-
 # About Qupital
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Qupital - Hong Kong based startup specializes in e-commerce lending</p></figcaption></figure>
