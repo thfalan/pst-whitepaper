@@ -19,9 +19,9 @@ With the maturity of decentralized exchanges (DEX) and smart contracts, we now h
 
 
 
-## TradFi vs DeFi
+## TradFi vs DeFi Listing
 
 
 
-<table><thead><tr><th width="139"></th><th>TradFi</th><th>DeFi</th></tr></thead><tbody><tr><td>Listing Cost</td><td>US$1.5mil in audit and legal fees<br>Regulatory overhead</td><td>No Cost</td></tr><tr><td>Time Cost</td><td>6-12 months+</td><td>&#x3C;1 month</td></tr><tr><td>Trading</td><td>Business hours</td><td>24/7 AMM</td></tr><tr><td>Incentives</td><td>-</td><td>Protocol airdrop inventives<br>FA marketing incentives</td></tr><tr><td>Recourse</td><td>Legal</td><td>Automated through smart contract</td></tr></tbody></table>
+<table><thead><tr><th width="139"></th><th>TradFi</th><th>DeFi</th></tr></thead><tbody><tr><td>Listing Cost</td><td>US$1.5mil in audit and legal fees<br>Regulatory overhead</td><td>No Cost</td></tr><tr><td>Time Cost</td><td>6-12 months+</td><td>&#x3C;1 month</td></tr><tr><td>Recourse</td><td>Litigation</td><td>Automated through smart contract</td></tr></tbody></table>
 

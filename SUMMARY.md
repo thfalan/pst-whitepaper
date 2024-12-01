@@ -12,22 +12,21 @@
 
 ## 3. PST Token Features
 
-* [3.1 Profit Sharing Model](3.-pst-token-features/3.1-profit-sharing-model.md)
-* [3.2 Margin](3.-pst-token-features/3.2-margin.md)
-* [3.3 Dividend](3.-pst-token-features/3.3-dividend.md)
+* [Profit Sharing Model](3.-pst-token-features/profit-sharing-model.md)
+* [Margin](3.-pst-token-features/margin.md)
+* [Dividend](3.-pst-token-features/dividend.md)
 
-## 4. Valuation
+## 4. Tokenomics
 
-* [4.1 PST Value](4.-valuation/4.1-pst-value.md)
-* [4.2 10x PE](4.-valuation/4.2-10x-pe.md)
-* [4.3 Yield Generation](4.-valuation/4.3-yield-generation.md)
+* [Underlying Value](4.-tokenomics/underlying-value.md)
+* [Distribution](4.-tokenomics/distribution.md)
+* [Vesting](4.-tokenomics/vesting.md)
 
 ## 5. Governance and Risk Mitigation
 
 * [5.1 Smart Contract Account](5.-governance-and-risk-mitigation/5.1-smart-contract-account.md)
 * [5.2 Amazon Data Oracle](5.-governance-and-risk-mitigation/5.2-amazon-data-oracle.md)
 * [5.3 Withdrawal Freeze and Liquidation](5.-governance-and-risk-mitigation/5.3-withdrawal-freeze-and-liquidation.md)
-* [5.4 Vesting](5.-governance-and-risk-mitigation/5.4-vesting.md)
 
 ## 6. M\&A
 
