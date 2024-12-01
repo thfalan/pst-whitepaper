@@ -6,7 +6,7 @@ Traditional lenders rely on financial statements that have three major limitatio
 * Subject to accounting discretion
 * Complex and time-consuming to verify
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Qupital's Data-Driven Approach
 
