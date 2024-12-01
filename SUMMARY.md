@@ -20,7 +20,7 @@
 ## 4. Tokenomics
 
 * [Distribution](4.-valuation/4.3-yield-generation.md)
-* [Vesting](4.-tokenomics/vesting.md)
+* [Vesting Vault](4.-tokenomics/vesting-vault.md)
 
 ## 5. Governance and Risk Mitigation
 
