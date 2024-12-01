@@ -1,6 +1,6 @@
 # About Qupital
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Qupital - Hong Kong based startup specializes in e-commerce lending</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Qupital - Hong Kong based startup specializes in e-commerce lending</p></figcaption></figure>
 
 Qupital is a Hong Kong-based fintech company that has revolutionized e-commerce financing through direct integration with e-commerce platform data.&#x20;
 

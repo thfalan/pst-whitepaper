@@ -12,14 +12,14 @@
 
 ## 3. PST Token Features
 
-* [Profit Sharing Model](3.-pst-token-features/profit-sharing-model.md)
-* [Margin](3.-pst-token-features/margin.md)
-* [Dividend](3.-pst-token-features/dividend.md)
+* [Profit Sharing Model](3.-pst-token-features/3.1-profit-sharing-model.md)
+* [Margin](3.-pst-token-features/3.2-margin.md)
+* [Dividend](3.-pst-token-features/3.3-dividend.md)
 
 ## 4. Tokenomics
 
-* [Underlying Value](4.-tokenomics/underlying-value.md)
-* [Distribution](4.-tokenomics/distribution.md)
+* [Underlying Value](4.-valuation/4.2-10x-pe.md)
+* [Distribution](4.-valuation/4.3-yield-generation.md)
 * [Vesting](4.-tokenomics/vesting.md)
 
 ## 5. Governance and Risk Mitigation

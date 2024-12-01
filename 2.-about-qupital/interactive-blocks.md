@@ -6,6 +6,8 @@ Traditional lenders rely on financial statements that have three major limitatio
 * Subject to accounting discretion
 * Complex and time-consuming to verify
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Qupital's Data-Driven Approach
 
 Qupital directly integrates with e-commerce platform, providing:

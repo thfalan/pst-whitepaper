@@ -6,7 +6,7 @@ icon: bullseye-arrow
 
 Profit Share Token (PST) lets investors earn monthly dividends from successful e-commerce stores. Led by Qupital, a Hong Kong fintech company that has processed over US$1.3 billion in e-commerce financing, PST automatically shares a percentage of an e-commerce store's revenue with token holders.
 
-<figure><img src=".gitbook/assets/Screenshot 2024-12-01 at 5.26.15 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-12-01 at 5.26.15 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Think of it as buying shares in an e-commerce store, but with three key advantages:
 
