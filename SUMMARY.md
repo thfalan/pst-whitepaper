@@ -12,17 +12,11 @@
 
 ## RWA
 
-* [Profit Sharing Model](rwa/profit-sharing-model.md)
-* [Valuation](rwa/valuation.md)
+* [Tokenization](rwa/tokenization.md)
+* [Governance](rwa/governance.md)
 * [Dividend](rwa/dividend.md)
-
-## Ecosystem
-
-* [Distribution](ecosystem/distribution.md)
-* [Vesting Vault](ecosystem/vesting-vault.md)
 
 ## Tokens
 
 * [PST Products](tokens/pst-products.md)
 * [LP Token](tokens/lp-token.md)
-* [Product Roadmap](tokens/product-roadmap.md)
