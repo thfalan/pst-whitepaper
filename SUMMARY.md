@@ -1,40 +1,28 @@
 # Table of contents
 
-## 1. Introduction
+## Introduction
 
 * [About PST](README.md)
-* [Equity Financing](1.-introduction/publish-your-docs.md)
 
-## 2. Qupital
+## Background
 
-* [About Qupital](2.-about-qupital/markdown.md)
-* [Underwriting](2.-about-qupital/interactive-blocks.md)
-* [Collateral](2.-qupital/collateral.md)
+* [Traditional equity market](background/markdown.md)
+* [Crypto financial market](background/interactive-blocks.md)
+* [Bridging TradFi Equity and DeFi](background/bridging-tradfi-equity-and-defi.md)
 
-## 3. PST Token Features
+## RWA
 
-* [Profit Sharing Model](3.-pst-token-features/3.1-profit-sharing-model.md)
-* [Valuation](3.-pst-token-features/valuation.md)
-* [Dividend](3.-pst-token-features/3.3-dividend.md)
+* [Profit Sharing Model](rwa/profit-sharing-model.md)
+* [Valuation](rwa/valuation.md)
+* [Dividend](rwa/dividend.md)
 
-## 4. Tokenomics
+## Ecosystem
 
-* [Distribution](4.-valuation/4.3-yield-generation.md)
-* [Vesting Vault](4.-tokenomics/vesting-vault.md)
+* [Distribution](ecosystem/distribution.md)
+* [Vesting Vault](ecosystem/vesting-vault.md)
 
-## 5. Governance and Risk Mitigation
+## Tokens
 
-* [Smart Contract Account](5.-governance-and-risk-mitigation/smart-contract-account.md)
-* [Amazon Data Oracle](5.-governance-and-risk-mitigation/amazon-data-oracle.md)
-* [Withdrawal Freeze and Liquidation](5.-governance-and-risk-mitigation/withdrawal-freeze-and-liquidation.md)
-
-## 6. M\&A
-
-* [Using Web3 Token for M\&A](6.-m-and-a/using-web3-token-for-m-and-a.md)
-* [Advantages of using PST for M\&A](6.-m-and-a/advantages-of-using-pst-for-m-and-a.md)
-
-## 7. Products and Roadmap
-
-* [PST Products](7.-products-and-roadmap/pst-products.md)
-* [LP Token](7.-products-and-roadmap/lp-token.md)
-* [Product Roadmap](7.-products-and-roadmap/product-roadmap.md)
+* [PST Products](tokens/pst-products.md)
+* [LP Token](tokens/lp-token.md)
+* [Product Roadmap](tokens/product-roadmap.md)
