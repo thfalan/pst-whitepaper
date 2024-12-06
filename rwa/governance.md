@@ -1,24 +1,14 @@
 # Governance
 
-PST governance combines automated controls with professional oversight to protect both merchant operations and investor interests. The system employs multiple layers of checks and balances to ensure sustainable business operations while maintaining token holder rights.
+PST governance combines professional oversight with automated controls to protect all stakeholders while ensuring efficient business operations. The system leverages Qupital's expertise in e-commerce financing and smart contract automation to create multiple layers of protection.
 
-### Smart Contract Controls
+### Stakeholder Structure
 
-* Automated withdrawal limits based on business metrics
-* Emergency freeze mechanisms for abnormal conditions
-* Inventory level monitoring and alerts
-* Revenue pattern analysis for risk detection
 
-### Qupital Oversight
 
-* Professional monitoring of business health
-* Risk assessment and intervention capabilities
-* Performance metric validation
-* Compliance verification
-
-### Token Holder Rights
-
-* Participation in major business decisions
-* Access to performance data and metrics
-* Voting on protocol improvements
-* Emergency action approval
+| Stakeholder     | Role                     | Primary Functions                                                                               |
+| --------------- | ------------------------ | ----------------------------------------------------------------------------------------------- |
+| Qupital         | Professional Underwriter | <ul><li>Risk management</li><li>Performance monitoring</li><li>Emergency intervention</li></ul> |
+| Smart Contracts | Automated Controller     | <ul><li>Revenue distribution</li><li>Safety enforcement</li><li>Data verification</li></ul>     |
+| Token Holders   | Beneficiaries            | <ul><li>Receive revenue share</li><li>Access performance data</li><li>Trade tokens</li></ul>    |
+| Merchants       | Store Operators          | <ul><li>Manage daily operations</li><li>Maintain performance</li><li>Share store data</li></ul> |

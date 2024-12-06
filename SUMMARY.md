@@ -12,11 +12,11 @@
 
 ## RWA
 
-* [Tokenization](rwa/tokenization.md)
+* [Tokenization](rwa/profit-sharing-model.md)
 * [Governance](rwa/governance.md)
 * [Dividend](rwa/dividend.md)
 
 ## Tokens
 
-* [PST Products](tokens/pst-products.md)
+* [PST](tokens/pst.md)
 * [LP Token](tokens/lp-token.md)
