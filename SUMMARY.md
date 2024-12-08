@@ -2,13 +2,14 @@
 
 ## Introduction
 
-* [About PST](README.md)
+* [Problem statement](README.md)
+* [About PST](<README (1).md>)
 
 ## Background
 
 * [Traditional equity market](background/markdown.md)
 * [Crypto financial market](background/interactive-blocks.md)
-* [Bridging TradFi Equity and DeFi](background/bridging-tradfi-equity-and-defi.md)
+* [Bridging TradFi and DeFi](background/bridging-tradfi-and-defi.md)
 
 ## RWA
 
