@@ -5,11 +5,11 @@
 * [Glossary](README.md)
 * [Profit Share Token](<README (1).md>)
 
-## RWA
+## Token Features
 
-* [Tokenization](rwa/profit-sharing-model.md)
-* [Governance](rwa/governance.md)
-* [Dividend](rwa/dividend.md)
+* [Overview](token-features/overview.md)
+* [Yield Farming](token-features/yield-farming.md)
+* [Token Vesting](token-features/token-vesting.md)
 
 ## Tokens
 
