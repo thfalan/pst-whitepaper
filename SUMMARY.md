@@ -2,8 +2,8 @@
 
 ## Introduction
 
-* [Problem statement](README.md)
-* [About PST](<README (1).md>)
+* [Glossary](README.md)
+* [Profit Share Token](<README (1).md>)
 
 ## Background
 
