@@ -7,15 +7,12 @@
 
 ## Token
 
-* [Overview](token/overview.md)
-* [Farms](token/farms/README.md)
-  * [Stable Tranche](token/farms/stable-tranche.md)
-  * [High Yield Tranche](token/farms/high-yield-tranche.md)
-  * [Degen Tranche](token/farms/degen-tranche.md)
+* [Token Overview](token/token-overview.md)
+* [Farms](token/farms.md)
 * [Token Vesting](token/token-vesting.md)
 
 ## DAO
 
-* [Treasury](dao/treasury.md)
+* [DAO Overview](dao/dao-overview.md)
 * [Voting](dao/voting.md)
 * [M\&A](dao/m-and-a.md)

@@ -1,14 +1,37 @@
-# Governance
+# Token Vesting
 
-PST governance combines professional oversight with automated controls to protect all stakeholders while ensuring efficient business operations. The system leverages Qupital's expertise in e-commerce financing and smart contract automation to create multiple layers of protection.
+Initially only 10% of the tokens are sold in pre-sale and 15% PSTs are locked in liquidity pool, so whats next?
 
-### Stakeholder Structure
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Performance-based unlocking schedule for merchants</p></figcaption></figure>
 
+For merchants, unlocking their tokens is tied directly to business performance. This vesting mechanism ensures merchant interests align with PST holders:
 
+**Growth-Based Unlocking**
 
-| Stakeholder     | Role                     | Primary Functions                                                                               |
-| --------------- | ------------------------ | ----------------------------------------------------------------------------------------------- |
-| Qupital         | Professional Underwriter | <ul><li>Risk management</li><li>Performance monitoring</li><li>Emergency intervention</li></ul> |
-| Smart Contracts | Automated Controller     | <ul><li>Revenue distribution</li><li>Safety enforcement</li><li>Data verification</li></ul>     |
-| Token Holders   | Beneficiaries            | <ul><li>Receive revenue share</li><li>Access performance data</li><li>Trade tokens</li></ul>    |
-| Merchants       | Store Operators          | <ul><li>Manage daily operations</li><li>Maintain performance</li><li>Share store data</li></ul> |
+Target: 200-400% revenue growth over 3 years
+
+* Annual performance reviews using platform data oracle, measured at each anniversary of initial offering
+* Each review can trigger token transitions from locked to LP staked status
+
+**Unlocking Process**
+
+1. Locked → LP Staked
+
+* When growth targets are met, tokens move to LP staking
+* PST are automatically sold to create matching LP pair
+* Merchants are not able to redeem LP until 2 is reached
+
+2. LP Staked → Liquid
+
+* Only occurs when LP size exceeds 30% of circulating PST supply
+* Excess LP tokens unlock gradually over 3 months
+* Unlocking pauses if price stability is affected
+* Dynamic adjustment based on market conditions
+
+This mechanism ensures:
+
+* Merchants stay committed to growth
+* Market stability through adequate liquidity to protect against selling pressure
+* Gradual token distribution based on performance
+
+Financial Advisor (Qupital) is also subject to the same vesting requirements.

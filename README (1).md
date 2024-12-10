@@ -6,7 +6,7 @@ icon: bullseye-arrow
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Qupital, one of Hong Kong leading credit underwriters, gains control of 2 components of merchant's e-commerce store to issue Profit Share Tokens:
+Qupital, one of Hong Kong leading credit underwriters, gains control of 2 components of merchant's e-commerce store to issue **Profit Share Tokens (PST)**:
 
 1. Revenue Receiving Account: connected to a programmable bank account
 2. Store Access: replaced with DAO-controlled credentials
