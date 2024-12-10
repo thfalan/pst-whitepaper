@@ -8,13 +8,13 @@ icon: bullseye-arrow
 
 Qupital, one of Hong Kong leading credit underwriters, gains control of 2 components of merchant's e-commerce store to issue Profit Share Tokens:
 
-1. Revenue Receiving Account: connected to an API-based bank account
+1. Revenue Receiving Account: connected to a programmable bank account
 2. Store Access: replaced with DAO-controlled credentials
 
-In the first round of tokenization, Qupital carefully selected 3 stores out of their portoflio of 10,000+ stores based on the following criteria:
+In the first series of e-commerce tokenization, Qupital carefully selected 3 stores out of their portfolio of 10,000+ stores based on the following criteria:
 
-* **Proven financial track record** - showed high growth in the past 2 years
+* **Strong financial track record** - demonstrates high growth in the past 2 years
 * **High growth potential** - merchants with a defined growth strategy according to their product expertise
-* **Low default rate** - merchants shown strong repayment ability
+* **Perfect repayment history** - merchants that have no history of delinquency
 
 By transferring the store ownership to the DAO, the merchant is able to raise equity-like capital efficiently.

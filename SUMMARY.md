@@ -16,6 +16,6 @@
 
 ## DAO
 
+* [Treasury](dao/treasury.md)
 * [Voting](dao/voting.md)
 * [M\&A](dao/m-and-a.md)
-* [Treasury](dao/treasury.md)
