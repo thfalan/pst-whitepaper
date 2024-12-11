@@ -8,11 +8,15 @@
 ## Token
 
 * [Token Overview](token/token-overview.md)
-* [Farms](token/farms.md)
+* [Farm](token/farm.md)
 * [Token Vesting](token/token-vesting.md)
 
 ## DAO
 
 * [DAO Overview](dao/dao-overview.md)
-* [Voting](dao/voting.md)
+* [Participants](dao/participants.md)
 * [M\&A](dao/m-and-a.md)
+
+## Appendix
+
+* [Yield Farm Scenario](appendix/yield-farm-scenario.md)
