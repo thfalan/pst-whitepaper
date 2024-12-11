@@ -6,12 +6,9 @@ description: Reclaiming Value for Real Investors
 
 Traditional equity offering drain investor value through multiple layers of fees:
 
-* Investment Banking: 4-7%
-* Market Making: 1-3%
-* Legal & Audit: 2-3%
-* Exchange & Infrastructure: 1-2%
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-**Total Cost:** Up to 15% lost before trading begins, plus the lengthly application process and regulatory overhead, with no guarantee of success.
+**Total Cost:** Up to 15% lost before trading begins, plus the lengthy application process and regulatory overhead, with no guarantee of success.
 
 In contrast, PST DAO disrupts this outdated model with the following:
 
