@@ -4,19 +4,22 @@ icon: bullseye-arrow
 
 # Profit Share Token
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Qupital, one of Hong Kong leading credit underwriters,&#x20;
+Qupital as a leading credit underwriter in Hong Kong, introduces a tokenization framework that transforms e-commerce assets into tradeable digital tokens.&#x20;
 
-Tokenize:
+Through this framework, Qupital converts future cash flows and receivables and inventory assets into Profit Share Tokens (PST), enabling direct investment into e-commerce store's cash flow.
 
-* Product specific receivable cash flow
-* Inventory&#x20;
+Qupital implements a dual-control system over merchant operations:
 
-gains control of 2 components of merchant's e-commerce store to issue **Profit Share Tokens (PST)**:
+1. Revenue Control: Integration with programmable banking infrastructure to secure all sales proceeds
+2. Store Access Management: Store credentials are encrypted and bound to smart contracts
 
-1. Revenue Receiving Account: connected to a programmable bank account
-2. Store Access: replaced with DAO-controlled credentials
+This framework ensures robust investor protection through:
+
+* Immutable payment routing
+* Encrypted credential management
+* Smart contract-enforced operational policies
 
 Qupital's merchant network covers all of southern China, including Shenzhen, the world leading e-commerce merchant hub:
 
