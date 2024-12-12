@@ -1,6 +1,6 @@
-# Overview
+# Token Overview
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption><p>Token distribution at initial offering</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt="" width="375"><figcaption></figcaption></figure>
 
 There are 3 types of PST at initial offering:
 
