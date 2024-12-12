@@ -1,6 +1,6 @@
 # Token Vesting
 
-Initially only 10% of the tokens are sold in pre-sale and 15% PSTs are locked in liquidity pool, so whats next?
+Initially only 10% of the tokens are sold in pre-sale and 10% PSTs are locked in liquidity pool, so whats next?
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
