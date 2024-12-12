@@ -2,7 +2,7 @@
 
 **Qupital**
 
-Qupital is a leading e-commerce financer with a proven track record of managing risk. They have disbursed over US$1.3 billion in loans across 10,000+ stores while maintaining a remarkably low default rate of less than 0.1%. This success comes from their expertise in analyzing real-time store data to assess business performance.
+Qupital is a leading e-commerce financer with a proven track record of managing risk. They have disbursed over US$2 billion in loans across 15,000+ stores while maintaining a remarkably low default rate of less than 0.1%. This success comes from their expertise in analyzing real-time store data to assess business performance.
 
 **DAO (Decentralized Autonomous Organization)**
 
