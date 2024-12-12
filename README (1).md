@@ -31,4 +31,4 @@ Qupital's e-commerce data integration tracks live performance metrics of all mer
 * **Operational edge** - Qupital analyses the full historical record of all the stores to find merchants with an operation excellence, such as merchants who are able to capitalise promotional events (e.g. black friday) better than their peers
 * **Perfect repayment history** - merchants that have no history of delinquency
 
-By transferring the store ownership to the DAO, the merchant is able to raise equity-like capital efficiently.
+By transferring the store ownership to the DAO, the merchant is able to raise capital efficiently.
