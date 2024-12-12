@@ -15,6 +15,7 @@
 
 * [DAO Overview](dao/dao-overview.md)
 * [Governance](dao/governance.md)
+* [Collateral](dao/collateral.md)
 * [M\&A](dao/m-and-a.md)
 
 ## Appendix

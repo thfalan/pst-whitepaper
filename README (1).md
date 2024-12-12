@@ -20,10 +20,11 @@ In the first series of e-commerce tokenization, Qupital carefully selects:
 * 3 merchants out of the top 50 merchants with over US$5M annual profit
 * 20 of the best performing Shenzhen-based stores out of Qupital's portoflio of 10,000+ stores
 
-Based on the following criteria:
+Qupital's e-commerce data integration tracks live performance metrics of all merchant stores, this enable Qupital to analyze the following parameters with ease:
 
-* **Strong financial track record** - demonstrates high growth in the past 2 years
-* **High growth potential** - merchants with a defined growth strategy according to their product expertise
+* **Strong financial track record** - demonstrates very high growth in the past 2 years
+* **Operational edge** - Low fault/return rate and low DIO (days inventory outstanding) indicates merchant is able to consistently locate high quality products in a highly competitive environment
+* **Operational edge** - Qupital analyses the full historical record of all the stores to find merchants with an operation excellence, such as merchants who are able to capitalise promotional events (e.g. black friday) better than their peers
 * **Perfect repayment history** - merchants that have no history of delinquency
 
 By transferring the store ownership to the DAO, the merchant is able to raise equity-like capital efficiently.
