@@ -11,7 +11,16 @@ Qupital, one of Hong Kong leading credit underwriters, gains control of 2 compon
 1. Revenue Receiving Account: connected to a programmable bank account
 2. Store Access: replaced with DAO-controlled credentials
 
-In the first series of e-commerce tokenization, Qupital carefully selected 3 stores out of their portfolio of 10,000+ stores based on the following criteria:
+Qupital's merchant network covers all of southern China, including Shenzhen, the world leading e-commerce merchant hub:
+
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+In the first series of e-commerce tokenization, Qupital carefully selects:
+
+* 3 merchants out of the top 50 merchants with over US$5M annual profit
+* 20 of the best performing Shenzhen-based stores out of Qupital's portoflio of 10,000+ stores
+
+Based on the following criteria:
 
 * **Strong financial track record** - demonstrates high growth in the past 2 years
 * **High growth potential** - merchants with a defined growth strategy according to their product expertise
