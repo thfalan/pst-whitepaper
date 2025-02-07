@@ -1,6 +1,6 @@
 # Collateral
 
-The data integration tracks several live metrics of the stores:
+The data integration tracks several live metrics of the stores, including but not limited to:
 
 * Sales amount
 * Refund ratio
@@ -11,4 +11,4 @@ Based on the live metrics, operator can act on the collateral very quickly, coll
 
 * Store credentials
 * Merchant crypto assets
-* Physical inventory, executed by operator through traditional legal framework
+* Physical inventory, executed by Qupital through traditional legal framework

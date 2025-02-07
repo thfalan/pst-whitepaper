@@ -1,15 +1,18 @@
 # Table of contents
 
+* [Page](README.md)
+
 ## Introduction
 
-* [Glossary](README.md)
+* [Glossary](<README (2).md>)
 * [Profit Share Token](<README (1).md>)
 
 ## Token
 
 * [Token Overview](token/token-overview.md)
-* [Farm](token/farm.md)
+* [Dividend Mechanism](token/dividend-mechanism.md)
 * [Token Vesting](token/token-vesting.md)
+* [Farm](token/farm.md)
 
 ## DAO
 
