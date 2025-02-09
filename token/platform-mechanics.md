@@ -18,7 +18,7 @@
   * **ALAR Incentives:** Bonus rewards from ALAR—including chain (Mantra OM) and stablecoin (WUSD) incentives, plus gradual unlocking of merchant Performance‑Linked Stakes—boost overall yields.
 * **Tranche Structure:** The staking pool is segmented into three risk tiers:
   * **Super Senior Tranche:** Offers a fixed minimum yield of 11% per annum, guaranteed by ALAR.
-  * **Senior Tranche:** Provides priority payouts with expected yields between 8–10%.
+  * **Senior Tranche:** Provides priority payouts with expected yields between 0–30%.
   * **Junior Tranche:** Exposes stakers to higher risk in exchange for variable, potentially higher returns, and enhanced governance rewards.
 * **Redemption & Exit:** Standard unstaking is available after the lock-up period. To deter short‑term dividend farming, early unstaking (within one week) incurs an urgent liquidation fee of 20% on the unstaked amount.
 
