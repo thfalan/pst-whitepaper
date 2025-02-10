@@ -4,9 +4,10 @@
 
 ## Introduction
 
-* [Introduction – Market Opportunity & Problem](introduction/introduction-market-opportunity-and-problem.md)
+* [Introduction – Market Opportunity & Problem](introduction/introduction-market-opportunity-and-problem/README.md)
+  * [Participants & Roles](introduction/introduction-market-opportunity-and-problem/participants-and-roles.md)
+* [Bridging the Liquidity Gap with Blockchain Mechanisms](introduction/bridging-the-liquidity-gap-with-blockchain-mechanisms.md)
 * [Solution Overview (PST at a Glance)](introduction/solution-overview-pst-at-a-glance.md)
-* [Participants & Roles](introduction/participants-and-roles.md)
 * [Profit Share Token](<README (1).md>)
 * [Glossary](<README (2).md>)
 
