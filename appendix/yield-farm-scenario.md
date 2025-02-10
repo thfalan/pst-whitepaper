@@ -1,6 +1,6 @@
 # Yield Farm Scenario
 
-Investors are free to subscribe to any of the 3 LP tranches, with Junior Tranche's principal being the return guarantee for the Senior Tranches
+Investors are free to subscribe to any of the 2 LP tranches, with Junior Tranche's principal being the return guarantee for the Senior Tranch
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 

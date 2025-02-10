@@ -6,12 +6,12 @@ Enter the **Profit Share Token (PST) Protocol**, a revolutionary blockchain-nati
 
 Key features of PST include:
 
-* **10% Fixed Dividends**: Smart contracts capture 10% of merchant gross revenue at the point of sale, converting it into stablecoin dividends distributed pro-rata to token holders.
+* **Enforced  Dividends**: Smart contracts capture a fixed 10% of merchant gross revenue at the point of sale, converting it into stablecoin dividends distributed pro-rata to token holders.
 * **Hybrid Web2/Web3 Architecture**: Proprietary Key Permission Smart Contracts (KPSC) integrate with platforms like Amazon, Shopify, and Airwallex, ensuring automatic revenue sharing without merchant discretion.
 * **Risk-Tailored Tranching**: Investors can choose from senior or junior tranches, aligning returns with their risk appetite while eliminating 80% of the overhead seen in traditional securitization.
 * **On-Chain Transparency**: Every transaction, dividend payout, and governance vote is recorded immutably on the blockchain, offering real-time auditability.
 
-PST democratizes access to private equity-like returns, offering institutional-grade yields of 10% fixed on gross revenue with the liquidity and accessibility of public markets. Investors can participate with as little as $100, bypassing the traditional $500,000 minimums. Moreover, the protocol is collateralized by recurring cash flows from high-growth e-commerce businesses, ensuring stability and security for investors.
+PST democratizes access to private equity-like returns, offering institutional-grade profit sharing of 10% fixed on gross revenue with the liquidity and accessibility of public markets. Investors can participate with as little as $100, bypassing the traditional $500,000 minimums. Moreover, the protocol is collateralized by recurring cash flows from high-growth e-commerce businesses, ensuring stability and security for investors.
 
 The PST advantage lies in its ability to replace manual processes and intermediaries with blockchain automation, enabling:
 

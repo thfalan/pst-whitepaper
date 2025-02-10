@@ -1,29 +1,52 @@
 # Glossary
 
-**Qupital**
+#### **Automated Liquidity Assurance Reserve (ALAR)**
 
-Qupital is a leading e-commerce financer with a proven track record of managing risk. Since 2018, they have disbursed over US$2 billion in loans across over 15,000 stores while maintaining a remarkably low default rate of less than 0.1%. This success comes from their expertise in analyzing real-time store data to assess business performance.
+A decentralized reserve pool that guarantees minimum yields for senior tranche investors. It combines merchant collateral, chain incentives (e.g., OM tokens), and stablecoin rewards to stabilize returns and absorb liquidity risks.
 
-**DAO (Decentralized Autonomous Organization)**
+#### **DAO (Decentralized Autonomous Organization)**
 
-A DAO is an online organization where members use tokens to vote and share profits. Unlike traditional companies with managers and boards, DAOs use smart contracts to automate decisions and distribute rewards. Members buy tokens to join, vote on proposals, and receive their share of profits - all handled transparently through blockchain technology.
+A blockchain-governed entity where PST holders vote on protocol decisions (e.g., merchant onboarding, fee adjustments). Proposals are executed via smart contracts, eliminating centralized control while ensuring transparency.
 
-**DAO Treasury**
+#### **E-commerce Tokenization**
 
-A digital vault that automatically collects and distributes the profit share to token holders according to predefined rules.
+The process of converting e-commerce revenue streams, inventory, or store equity into tradable digital tokens. Enables fractional ownership and liquidity for traditionally illiquid assets.
 
-**E-commerce Tokenization**&#x20;
+#### **Key Permission Smart Contract (KPSC)**
 
-Converting e-commerce business value into tradeable digital tokens. Makes business ownership divisible and easily transferable without the friction and cost of traditional equity fundraising.
+A proprietary smart contract that binds merchant accounts (e.g., Amazon Seller Central) to blockchain logic. Automatically intercepts 10% of gross revenue at the payment gateway, ensuring tamper-proof dividend enforcement.
 
-**Profit Share Token (PST)**&#x20;
+#### **Liquidity Pool (LP)**
 
-A digital token that automatically pays the holders a share of a collection of e-commerce stores' earnings. Combines traditional business ownership with crypto market trading efficiency.
+A decentralized exchange mechanism where users stake paired tokens (e.g., PST/USDC) to enable trading. LP providers earn fees and incentives while ensuring market liquidity.
 
-**Yield Farm**
+#### **Performance-Linked Stake**
 
-Staking product that provides additional yield options to PST or LP token holders.
+Collateral (5% of merchant market cap) locked in ALAR. Gradually unlocks as merchants hit revenue targets, aligning merchant incentives with investor returns.
 
-**Liquidity Pool (LP)**
+#### **Profit Share Token (PST)**
 
-Token pairs are staked in a decentralized exchange for automatic market making. The staker earns LP tokens in return representing their share of the liquidity pool.
+A digital token representing fractional ownership of tokenized e-commerce cash flows. Delivers automated 10% gross revenue dividends via smart contracts and grants governance rights.
+
+#### **Qupital**
+
+A leading e-commerce financier managing $2B+ in loans since 2018. Acts as PST’s underwriter, vetting merchants using real-time sales data and maintaining a 0.1% default rate.
+
+#### **Smart Contract Dividend Wallet**
+
+An on-chain, programmatic wallet that automatically collects intercepted merchant revenue, converts it to stablecoins, and distributes dividends to PST holders. Features:
+
+* **Automation**: No manual intervention; payouts occur monthly via immutable code.
+* **Transparency**: All transactions are logged on-chain for real-time auditing.
+* **Security**: Funds are custodied in MPC wallets until distribution.
+
+#### **Tranche**
+
+Risk-tiered investment categories:
+
+* **Senior Tranche**: Prioritized payouts (8–11% APY), backed by ALAR.
+* **Junior Tranche**: Higher-risk, variable returns (up to 300% APY), eligible for governance rewards.
+
+#### **Yield Farm**
+
+A staking product offering tiered returns based on locked PST or LP tokens. Combines dividends, trading fees, and partner incentives (e.g., OM tokens) to maximize yields.

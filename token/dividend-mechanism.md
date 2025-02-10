@@ -12,4 +12,3 @@ description: >-
 
 {% include "../.gitbook/includes/immutable-fixed-dividend-ra....md" %}
 
-Flow Diagram - Payment Gateway VA -> Q Trust Account -> Distribution in stablecoin
