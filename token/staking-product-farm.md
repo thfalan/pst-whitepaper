@@ -1,6 +1,6 @@
 # Staking Product (Farm)
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Yield Farm Tranches</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-11 at 10.03.17 AM.png" alt=""><figcaption><p>Yield Farming Tranches</p></figcaption></figure>
 
 There are 2 tranches of the farm associated with PST liquidity pool:
 
