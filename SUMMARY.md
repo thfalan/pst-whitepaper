@@ -4,16 +4,16 @@
 
 ## Introduction
 
-* [Introduction – Market Opportunity & Problem](introduction/introduction-market-opportunity-and-problem/README.md)
-  * [Participants & Roles](introduction/introduction-market-opportunity-and-problem/participants-and-roles.md)
-* [Bridging the Liquidity Gap with Blockchain Mechanisms](introduction/bridging-the-liquidity-gap-with-blockchain-mechanisms.md)
+* [Introduction – Market Opportunity & Problem](introduction/introduction-market-opportunity-and-problem.md)
 * [Solution Overview (PST at a Glance)](introduction/solution-overview-pst-at-a-glance.md)
-* [Profit Share Token](<README (1).md>)
+* [Participants & Roles](introduction/participants-and-roles.md)
+* [Profit Share - Token originator & initial offering](<README (1).md>)
 * [Glossary](<README (2).md>)
 
 ## Token
 
-* [Platform Mechanics](token/platform-mechanics.md)
+* [Platform Mechanics](token/platform-mechanics/README.md)
+  * [Bridging the Liquidity Gap with Blockchain Mechanisms](token/platform-mechanics/bridging-the-liquidity-gap-with-blockchain-mechanisms.md)
 * [Dividend Mechanism](token/dividend-mechanism.md)
 * [Token Overview](token/token-overview.md)
 * [Use Cases / Examples](token/use-cases-examples.md)
