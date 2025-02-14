@@ -1,3 +1,7 @@
+---
+description: Structured Tranches for Optimized Returns
+---
+
 # Yield Farm Scenario
 
 Investors are free to subscribe to any of the 2 LP tranches, with Junior Tranche's principal being the return guarantee for the Senior Tranche

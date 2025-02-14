@@ -1,3 +1,9 @@
+---
+description: >-
+  Bridging the $12 Trillion Gap: A Blockchain-Driven Future for E-Commerce
+  Liquidity
+---
+
 # Executive Summary
 
 The global e-commerce sector, forecasted to exceed $8.1 trillion in annual sales by 2026, faces a systemic liquidity crisis that hampers the growth of small and medium-sized businesses (SMBs). Despite generating predictable and recurring revenue streams, these businesses often lack access to affordable capital, while investors struggle to find non-speculative, high-yield investment opportunities in real-world assets (RWAs). Traditional financing models—relying on manual oversight, opaque reporting, and costly intermediaries—fail to bridge this $12 trillion gap in an efficient way.
@@ -6,7 +12,7 @@ Enter the **Profit Share Token (PST) Protocol**, a revolutionary blockchain-nati
 
 Key features of PST include:
 
-* **Enforced  Dividends**: Smart contracts capture a fixed 10% of merchant gross revenue at the point of sale, converting it into stablecoin dividends distributed pro-rata to token holders.
+* **Enforced Dividends**: Smart contracts capture a fixed 10% of merchant gross revenue at the point of sale, converting it into stablecoin dividends distributed pro-rata to token holders.
 * **Hybrid Web2/Web3 Architecture**: Proprietary Key Permission Smart Contracts (KPSC) integrate with platforms like Amazon, Shopify, and Airwallex, ensuring automatic revenue sharing without merchant discretion.
 * **Risk-Tailored Tranching**: Investors can choose from senior or junior tranches, aligning returns with their risk appetite while eliminating 80% of the overhead seen in traditional securitization.
 * **On-Chain Transparency**: Every transaction, dividend payout, and governance vote is recorded immutably on the blockchain, offering real-time auditability.

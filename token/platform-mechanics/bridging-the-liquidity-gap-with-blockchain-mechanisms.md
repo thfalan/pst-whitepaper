@@ -1,3 +1,7 @@
+---
+description: Using Blockchain-Powered Mechanisms to Empower SMBs and Investors
+---
+
 # Bridging the Liquidity Gap with Blockchain Mechanisms
 
 The traditional financial system struggles to provide efficient, transparent, and liquid financing solutions for small and [medium-sized businesses (SMBs)](<../../README (2).md#medium-sized-businesses-smbs>) in e-commerce. Despite their predictable revenue streams, these businesses face high costs, slow approval processes, and limited access to institutional-grade capital. Investors, on the other hand, encounter illiquid markets and opaque financial structures, making it difficult to manage risk and optimize returns.

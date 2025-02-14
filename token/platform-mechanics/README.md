@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamless Asset Tokenization, Secure Staking, and Transparent Yield Generation
+  through Decentralized, Automated Financing
+---
+
 # Platform Mechanics
 
 **1. Asset Onboarding & Tokenization**

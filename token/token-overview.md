@@ -1,6 +1,12 @@
+---
+description: >-
+  Diverse Token Types and Yield Streams Designed for Flexible Investment
+  Strategies
+---
+
 # Token Overview
 
-<figure><img src="../.gitbook/assets/image (23).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/tokenoverview.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (23).png" alt=""></picture><figcaption></figcaption></figure>
 
 There are 3 types of PST at initial offering:
 
@@ -17,6 +23,6 @@ LP tokens based on PST allow additional yield types to be collected by liquidity
   * Brokerage partnership incentives
   * MANTRA chain (https://www.mantrachain.io/) OM token (https://coinmarketcap.com/currencies/mantra/) incentives
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="563"><figcaption><p>Types of yield from PST liquidity pools</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/image (12).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (12).png" alt=""></picture><figcaption><p>Types of yield from PST liquidity pools</p></figcaption></figure>
 
 The variety of yield allow LP token yield to be more diversified and less susceptible to impermanent loss (market making inventory loss). Referencing traditional structured products, the yield is further allocated to 2 **distinct yield farms tranches** to suit different risk appetites of LP investors.

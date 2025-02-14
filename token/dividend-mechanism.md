@@ -6,9 +6,9 @@ description: >-
 
 # Dividend Mechanism
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-02-07 at 4.46.27 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/dividend_mechanism2_dark (3).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/dividend_mechanism2_light (1).png" alt=""></picture><figcaption></figcaption></figure>
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Screenshot 2025-02-07 at 4.39.47 PM.png" alt=""><figcaption><p>monthly fund flow</p></figcaption></figure></div>
+<div data-full-width="true"><figure><picture><source srcset="../.gitbook/assets/dividend_mechanism1_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/dividend_mechanism1_light (1).png" alt=""></picture><figcaption><p>monthly fund flow</p></figcaption></figure></div>
 
 {% include "../.gitbook/includes/immutable-fixed-dividend-ra....md" %}
 

@@ -1,3 +1,7 @@
+---
+description: A Balanced Ecosystem of Aligned Interests
+---
+
 # Governance
 
 Participants in the DAO contribute differently based on their roles, creating a balanced ecosystem of aligned interests:

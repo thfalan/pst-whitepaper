@@ -1,8 +1,11 @@
 ---
 icon: bullseye-arrow
+description: >-
+  Qupital's Tokenization Framework: Empowering E-Commerce Investment with
+  Secured, Transparent, and Scalable Solutions
 ---
 
-# Profit Share Token
+# Profit Share - Token originator & initial offering
 
 <figure><img src=".gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -1,3 +1,7 @@
+---
+description: 'PST: Automating Revenue Sharing & Democratizing Private Credit'
+---
+
 # Solution Overview (PST at a Glance)
 
 The **Profit Share Token (PST)** Protocol offers an innovative solution to the liquidity gap in the e-commerce financing market by tokenizing gross revenue into fractional, tradable yield positions. This blockchain-native solution combines the best aspects of traditional finance with the transparency, accessibility, and automation of decentralized technology.

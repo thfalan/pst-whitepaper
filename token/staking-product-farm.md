@@ -1,3 +1,9 @@
+---
+description: >-
+  Staking Product: Diversified Yield Farming Tranches for Tailored Investment
+  Strategies
+---
+
 # Staking Product (Farm)
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-11 at 10.03.17 AM.png" alt=""><figcaption><p>Yield Farming Tranches</p></figcaption></figure>

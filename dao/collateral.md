@@ -1,3 +1,7 @@
+---
+description: Real-Time Monitoring and Adaptive Action
+---
+
 # Collateral
 
 The data integration tracks several live metrics of the stores, including but not limited to:

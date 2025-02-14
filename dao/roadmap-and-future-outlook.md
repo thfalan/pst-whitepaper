@@ -1,3 +1,9 @@
+---
+description: >-
+  Roadmap & Future Outlook: Expanding Global Reach and Strengthening DeFi
+  Liquidity
+---
+
 # Roadmap & Future Outlook
 
 **1. Expanding Regulatory Partnerships**

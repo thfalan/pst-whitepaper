@@ -1,3 +1,9 @@
+---
+description: >-
+  Unlocking Liquidity and Yield Potential: Streamlined Investment and Optimized
+  Return Strategies
+---
+
 # Use Cases / Examples
 
 **1. PST as a Primary Market Investment Tool**

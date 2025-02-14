@@ -1,3 +1,9 @@
+---
+description: >-
+  Performance-Driven Vesting: Ensuring Alignment and Sustainable Growth for
+  Merchants and Investors
+---
+
 # Token Vesting
 
 Initially only 10% of the PST tokens are sold in pre-sale and 10% PSTs are locked in liquidity pool. The below illustrates how the remaining tokens will become unlocked.

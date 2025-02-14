@@ -1,3 +1,9 @@
+---
+description: >-
+  Governance, Token Utility, and Fee Models: A Comprehensive Approach to
+  Decentralized Ecosystem & Investor Benefits
+---
+
 # Governance & Token Economics
 
 **1. Governance Model**
