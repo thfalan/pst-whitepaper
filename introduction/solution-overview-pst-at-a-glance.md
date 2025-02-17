@@ -13,7 +13,7 @@ The **Profit Share Token (PST)** Protocol offers an innovative solution to the l
 3. [**Decentralized Governance**](<../README (2).md#decentralized-governance>): The PST protocol is governed by decentralized mechanisms, giving stakeholders a voice in decision-making processes, including the allocation of capital and protocol upgrades. This ensures that the protocol remains aligned with its user base and evolves in a way that supports long-term growth.
 4. **On-Chain Transparency**: Every transaction is recorded on the blockchain, offering full transparency and auditability. Investors can track real-time sales, inventory turnover, and dividend accruals, which builds trust and accountability in the system.
 
-PST's unique value proposition lies in its ability to offer institutional-grade returns—10% fixed on gross revenue—without the complexity and inefficiencies of traditional private credit models. Additionally, its hybrid Web2/Web3 architecture ensures seamless integration with e-commerce platforms like Amazon, Shopify, and [Airwallex](<../README (2).md#airwallex>), offering merchants a fully automated, frictionless way to access capital and share revenue with investors.
+PST's unique value proposition lies in its ability to offer institutional-grade returns—10% fixed on gross revenue—without the complexity and inefficiencies of traditional private credit models. Additionally, its hybrid Web2/Web3 architecture ensures seamless integration with e-commerce platforms and payment companies, offering merchants a fully automated, frictionless way to access capital and share revenue with investors.
 
 In essence, PST is not just a token; it is a paradigm shift in how global retail revenue is owned and distributed. The protocol democratizes access to private equity-like yields, offering investors an opportunity to tap into a highly lucrative asset class previously reserved for institutional players.
 
@@ -38,20 +38,20 @@ This diagram illustrates the **Profit Share Token (PST) Protocol** and how it to
 #### **3. Transfer to the Smart Contract Dividend Wallet**
 
 * The **PST Smart Contract** forwards the **€800** to the **Smart Contract Dividend Wallet**.
-* This wallet is responsible for **automated dividend distribution** to investors in **USDC stablecoins** based on their token holdings.
+* This wallet is responsible for **automated dividend distribution** to investors in **stablecoins** based on their token holdings.
 
 #### **4. Proportional Distribution of Dividends to Investors**
 
 The dividend distribution is based on each investor’s **ownership percentage** of the **PST token supply**.
 
 * **Investor1** holds **10,000 PST**, representing **1% of the total network**.
-  * Receives **8 USDC** (1% of €800 converted to USDC).
+  * Receives **€8 worth of stablecoins** (1% of €800).
   * Funds are deposited into **Investor1's Wallet**.
 * **Investor2** holds **20,000 PST**, representing **2% of the total network**.
-  * Receives **16 USDC** (2% of €800).
+  * Receives **€16 worth of stablecoins** (2% of €800).
   * Funds are deposited into **Investor2's Wallet**.
 * **Investor3** holds **50,000 PST**, representing **5% of the total network**.
-  * Receives **40 USDC** (5% of €800).
+  * Receives **€40 worth of stablecoins** (5% of €800).
   * Funds are deposited into **Investor3's Wallet**.
 
 #### **Key Benefits of the PST Protocol**
@@ -62,4 +62,4 @@ The dividend distribution is based on each investor’s **ownership percentage**
   * Merchants gain access to **instant liquidity** through tokenized revenue streams.
   * Investors receive **predictable dividend payouts** backed by real-time e-commerce sales.
 
-This system allows merchants operating on platforms like **Amazon, Shopify, or Airwallex** to seamlessly tokenize their revenue while **providing investors with a new, automated revenue-sharing model**. 🚀
+This system allows merchants operating on e-commerce platforms to seamlessly tokenize their revenue while **providing investors with a new, automated revenue-sharing model**. 🚀
