@@ -4,6 +4,10 @@ description: Structured Tranches for Optimized Returns
 
 # Yield Farm Scenario
 
+> We have created a basic simulation to estimate returns for a $100mil PST tokenization here: [**https://techgrity-sim.vercel.app**](https://techgrity-sim.vercel.app/)
+>
+> Note: Numbers are only an estimation, the return is subject to actual shop performance, AMM activity etc.
+
 Investors are free to subscribe to any of the 2 LP tranches, with Junior Tranche's principal being the return guarantee for the Senior Tranche
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-11 at 10.12.42 AM.png" alt=""><figcaption></figcaption></figure>
