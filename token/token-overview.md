@@ -21,7 +21,7 @@ LP tokens based on PST allow additional yield types to be collected by liquidity
 * Partnership incentives, including:
   * Stablecoin partnership incentives
   * Brokerage partnership incentives
-  * MANTRA chain (https://www.mantrachain.io/) OM token (https://coinmarketcap.com/currencies/mantra/) incentives
+  * Chain partner incentives
 
 <figure><picture><source srcset="../.gitbook/assets/image (12).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (12).png" alt=""></picture><figcaption><p>Types of yield from PST liquidity pools</p></figcaption></figure>
 
