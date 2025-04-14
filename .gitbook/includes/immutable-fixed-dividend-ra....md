@@ -52,7 +52,7 @@ Dividends are distributed as **multi-chain stablecoins** (USDC, USDT, WUSD, HKDA
 1. **Revenue Conversion**:
    * Intercepted fiat revenue is converted to stablecoins through licensed custodians (e.g., Circle, Tether).
 2. **On-Chain Minting**:
-   * Stablecoins are minted as wrapped tokens (e.g., WUSD) on PST’s native chain (MANTRA Chain) for cross-DEX compatibility.
+   * Stablecoins are minted as wrapped tokens (e.g., WUSD) on PST’s native chain for cross-DEX compatibility.
 3. **Pro-Rata Airdrops**:
    * A Smart Contract Dividend Wallet distributes tokens monthly to PST holders’ wallets, weighted by holdings.
    * Transactions are immutably logged on-chain, with real-time dashboards for institutional auditing.

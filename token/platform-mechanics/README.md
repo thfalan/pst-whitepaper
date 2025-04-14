@@ -14,14 +14,14 @@ description: >-
 **2. Funding & Liquidity Pool Structure**
 
 * **Pooled Staking Model:** Investors (stakers) contribute PST tokens to the platform’s AMM liquidity pool. Unlike traditional financing, these funds are not allocated directly to any merchant; rather, they are managed algorithmically by smart contracts. This structure protects investor capital by eliminating direct exposure to merchant operations while still allowing stakers to benefit from the underlying e‑shop cashflows.
-* [**ALAR** ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**Backing:** The funds locked via the Performance‑Linked Stake, combined with chain partner incentives (e.g., bonus OM tokens from Mantra) and stablecoin incentives (e.g., rewards in WUSD), form the **Automated Liquidity Assurance Reserve (**[**ALAR**](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**)**. [ALAR ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)ensures that the most conservative investment tier—the Super Senior Tranche—receives a fixed yield of at least 11% annually, thereby underpinning investor confidence with a robust yield floor.
+* [**ALAR** ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**Backing:** The funds locked via the Performance‑Linked Stake, combined with chain partner incentives and stablecoin incentives (e.g., rewards in WUSD), form the **Automated Liquidity Assurance Reserve (**[**ALAR**](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**)**. [ALAR ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)ensures that the most conservative investment tier—the Super Senior Tranche—receives a fixed yield of at least 11% annually, thereby underpinning investor confidence with a robust yield floor.
 
 **3. Yield Generation & Distribution**
 
 * **Multi-Source Yield:** Staking rewards are generated through three primary channels:
   * [**AMM** ](<../../README (2).md#automated-market-intelligence-ami>)**Trading Activity:** Swap fees from on‑chain trading contribute to the yield.
   * **NAV Growth:** As the value of the pooled assets appreciates, stakers share in this upside.
-  * [**ALAR** ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**Incentives:** Bonus rewards from [ALAR](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)—including chain (Mantra OM) and stablecoin (WUSD) incentives, plus gradual unlocking of merchant Performance‑Linked Stakes—boost overall yields.
+  * [**ALAR** ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**Incentives:** Bonus rewards from [ALAR](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)—including chain and stablecoin (WUSD) incentives, plus gradual unlocking of merchant Performance‑Linked Stakes—boost overall yields.
 * [**Tranche** ](<../../README (2).md#tranche>)**Structure:** The staking pool is segmented into 2 risk tiers:
   * **Senior** [**Tranche**](<../../README (2).md#tranche>)**:** Offers a fixed minimum yield of 11% per annum, guaranteed by [ALAR](<../../README (2).md#automated-liquidity-assurance-reserve-alar>).
   * **Junior** [**Tranche**](<../../README (2).md#tranche>)**:** Exposes stakers to higher risk in exchange for variable, potentially higher returns, and enhanced governance rewards.

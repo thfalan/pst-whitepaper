@@ -88,10 +88,6 @@ Blockchain frameworks (e.g., Optimistic Rollups, zk-Rollups) that enhance transa
 
 A decentralized exchange mechanism where users stake paired tokens (e.g., PST/USDC) to enable trading. LP providers earn fees and incentives while ensuring market liquidity.
 
-#### **MANTRA Chain**
-
-MANTRA Chain is a layer-1 blockchain built for real-world asset (RWA) tokenization, DeFi, and compliant on-chain finance. It is designed to support institutional adoption by offering scalable, regulatory-friendly financial infrastructure that bridges traditional finance (TradFi) and decentralized finance (DeFi).
-
 #### **Market-Making Bot**
 
 An automated trading system that provides liquidity to decentralized exchanges by continuously placing buy and sell orders.
