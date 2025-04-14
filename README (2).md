@@ -22,7 +22,7 @@ A protocol that continuously analyzes on-chain and off-chain data (e.g., sales p
 
 #### **Automated Liquidity Assurance Reserve (ALAR)**
 
-A decentralized reserve pool that guarantees minimum yields for senior tranche investors. It combines merchant collateral, chain incentives (e.g., OM tokens), and stablecoin rewards to stabilize returns and absorb liquidity risks.
+A decentralized reserve pool that guarantees minimum yields for senior tranche investors. It combines merchant collateral, chain incentives, and stablecoin rewards to stabilize returns and absorb liquidity risks.
 
 #### **Bridge Protocol**
 
@@ -167,7 +167,7 @@ Risk-tiered investment categories:
 
 #### **Yield Farm**
 
-A staking product offering tiered returns based on locked PST or LP tokens. Combines dividends, trading fees, and partner incentives (e.g., OM tokens) to maximize yields.
+A staking product offering tiered returns based on locked PST or LP tokens. Combines dividends, trading fees, and partner incentives to maximize yields.
 
 #### **Zero-Knowledge Proofs (ZKPs)**
 
