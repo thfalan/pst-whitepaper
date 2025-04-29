@@ -1,4 +1,4 @@
-# Authors
+# Credits
 
 **Lead Author:** Bryan Yau
 
