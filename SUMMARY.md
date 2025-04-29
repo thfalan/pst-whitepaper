@@ -37,3 +37,4 @@
 ## Appendix
 
 * [Yield Farm Scenario](appendix/yield-farm-scenario.md)
+* [Authors](appendix/authors.md)
