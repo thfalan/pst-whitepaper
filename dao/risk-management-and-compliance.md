@@ -29,7 +29,7 @@ description: >-
 
 4. **Price Stabilising Mechanism**
 
-Market can be irrational sometimes:
+Market sentiment can sometimes lead to irrational fluctuations in token prices, deviating from their fair value. To maintain price stability and respond to such market behavior, PST implements the following strategies through the ALAR mechanism:
 
-* During events of oversold, [ALAR](<../README (2).md#automated-liquidity-assurance-reserve-alar>) stabilises prices through buyback when token value drop below PE ratio of 8
-* Similarly if a token is overbought, ALAR would sell the token when token value rise above PE ratio of 15
+* **Addressing Overselling Pressure (Price Support):** When irrational selling occurs in the market, causing the token's valuation to fall below a Price-to-Earnings (PE) ratio of 8 (indicating potential undervaluation), [ALAR](<../README (2).md#automated-liquidity-assurance-reserve-alar>) will proactively buy back tokens. This action aims to provide price support by injecting purchasing power and reducing the number of tokens circulating in the market, thereby preventing further irrational declines and guiding the price back towards a reasonable valuation.
+* **Addressing Overbuying Pressure (Price Regulation):** Conversely, when irrational exuberance occurs in the market, causing the token's valuation to exceed a PE ratio of 15 (indicating potential overvaluation), ALAR will sell tokens. This action, by increasing the token supply in the market, aims to curb irrational market overheating, encourage the price to correct to a more sustainable level, and thus prevent potential bubble risks.
