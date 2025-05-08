@@ -22,7 +22,7 @@ A protocol that continuously analyzes on-chain and off-chain data (e.g., sales p
 
 #### **Automated Liquidity Assurance Reserve (ALAR)**
 
-A decentralized reserve pool that guarantees minimum yields for senior tranche investors. It combines merchant collateral, chain incentives, and stablecoin rewards to stabilize returns and absorb liquidity risks.
+A decentralized reserve pool that guarantees minimum yields for senior tranche investors. ALAR combines merchant collateral, chain incentives, and stablecoin rewards to stabilize returns and absorb liquidity risks. ALAR buyback or sell token to stabilise prices solely based on the Price-to-Earning ratio (PE), with 8 PE as the target buyback price and 15 PE as the target sell price.
 
 #### **Bridge Protocol**
 
