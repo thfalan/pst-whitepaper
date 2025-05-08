@@ -16,7 +16,7 @@ PST creates a token distributing regular stablecoin dividends from e-commerce re
 
 
 2. **Automated Processing:** The smart contract then automatically:
-   * **Segregates Profit Share:** Isolates the pre-agreed percentage of revenue (e.g., 10% of a $100 sale = $10) based on merchant terms.
+   * **Segregates Profit Share:** Isolates the pre-agreed percentage of revenue - default is set at 10%.
    * **Converts to Stablecoins:** Converts this profit share to stablecoins, transferring them to the PST Dividend Wallet.
    * **Remits to Merchant:** Returns the remaining revenue (e.g., $90) to the merchant.
 3. **Dividend Distribution:** Monthly, accumulated stablecoins in the Dividend Wallet are distributed pro-rata to PST token holders and Liquidity Pool.
