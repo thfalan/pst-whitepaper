@@ -8,20 +8,20 @@ The Profit Share Token (PST) Protocol addresses e-commerce liquidity gaps by tok
 
 **How PST Works: The Core Mechanism**
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 PST creates a token distributing regular stablecoin dividends from e-commerce revenue:
 
-1.  **Revenue Capture:** Merchant sales revenue is automatically directed via integrations (e.g., payment gateways) to a PST smart contract account.
+1.  **Revenue Capture:** Merchant sales revenue is automatically directed via integrations (e.g., payment gateways) to a smart contract controlled bank account.
 
 
 2. **Automated Processing:** The smart contract then automatically:
    * **Segregates Profit Share:** Isolates the pre-agreed percentage of revenue (e.g., 10% of a $100 sale = $10) based on merchant terms.
    * **Converts to Stablecoins:** Converts this profit share to stablecoins, transferring them to the PST Dividend Wallet.
    * **Remits to Merchant:** Returns the remaining revenue (e.g., $90) to the merchant.
-3. **Dividend Distribution:** Monthly, accumulated stablecoins in the Dividend Wallet are distributed pro-rata to PST token holders.
+3. **Dividend Distribution:** Monthly, accumulated stablecoins in the Dividend Wallet are distributed pro-rata to PST token holders and Liquidity Pool.
 
 This ensures only the agreed profit is tokenized, merchants receive their operational revenue promptly, and investors earn stablecoin dividends from e-commerce profits.
-
-
 
 **Structured Investment Products**
 

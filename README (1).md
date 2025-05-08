@@ -1,5 +1,4 @@
 ---
-icon: bullseye-arrow
 description: >-
   Qupital's Tokenization Framework: Empowering E-Commerce Investment with
   Secured, Transparent, and Scalable Solutions
@@ -27,7 +26,7 @@ This framework ensures robust investor protection through:
 
 [Qupital's ](<README (2).md#qupital>)merchant network covers all of China, including Shenzhen, the world leading e-commerce merchant hub and Guangzhou City:
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 In the first series of e-commerce tokenizations, [Qupital ](<README (2).md#qupital>)carefully selects the best performing Chinese cross-border sellers from [Qupital's ](<README (2).md#qupital>)portoflio of over 15,000 stores.
 

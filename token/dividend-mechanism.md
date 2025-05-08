@@ -10,5 +10,3 @@ description: >-
 
 <div data-full-width="true"><figure><picture><source srcset="../.gitbook/assets/dividend_mechanism1_dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/dividend_mechanism1_light (1).png" alt=""></picture><figcaption><p>monthly fund flow</p></figcaption></figure></div>
 
-{% include "../.gitbook/includes/immutable-fixed-dividend-ra....md" %}
-
