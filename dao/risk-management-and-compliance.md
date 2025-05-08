@@ -24,7 +24,7 @@ description: >-
 * **Multi-Sig & Governance Security:** Critical treasury decisions require [DAO ](<../README (2).md#dao-decentralized-autonomous-organization>)approval.
 * **Regulatory Insurance Protection:** PST holders benefit from **regulated exchange partner insurance mechanisms** in jurisdictions where applicable.
 
-4. Price Stabilising Mechanism
+4. **Price Stabilising Mechanism**
 
 * During events of oversold, [ALAR](<../README (2).md#automated-liquidity-assurance-reserve-alar>) stabilises prices through buyback when token value drop below PE ratio of 8
 * Similarly if a token is overbought, ALAR would sell the token when token value rise above PE ratio of 15

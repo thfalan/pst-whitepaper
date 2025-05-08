@@ -162,7 +162,7 @@ A blockchain-based financial instrument that represents a claim on a predefined 
 
 Risk-tiered investment categories:
 
-* **Senior Tranche**: Prioritized payouts (8–11% APY), backed by ALAR.
+* **Senior Tranche**: Prioritized payouts (11-13% APY), backed by ALAR.
 * **Junior Tranche**: Higher-risk, variable returns (up to 300% APY), eligible for governance rewards.
 
 #### **Yield Farm**

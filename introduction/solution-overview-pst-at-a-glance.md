@@ -8,7 +8,7 @@ The Profit Share Token (PST) Protocol addresses e-commerce liquidity gaps by tok
 
 **How PST Works: The Core Mechanism**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 PST creates a token distributing regular stablecoin dividends from e-commerce revenue:
 
