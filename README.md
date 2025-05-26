@@ -6,7 +6,7 @@ description: >-
 
 # Executive Summary
 
-Here is a relevant YouTube clip from Bankless that discusses the future of internet capital markets: [https://youtube.com/clip/UgkxFpn6pC52eQPEvy4Elps7BeV1ifesYH2G?si=s1voDX2TqGKF9S7o](https://youtube.com/clip/UgkxFpn6pC52eQPEvy4Elps7BeV1ifesYH2G?si=s1voDX2TqGKF9S7o)
+[![Bankless discussing the future of internet capital markets](https://img.youtube.com/vi/UgkxFpn6pC52eQPEvy4Elps7BeV1ifesYH2G/0.jpg)](https://youtube.com/clip/UgkxFpn6pC52eQPEvy4Elps7BeV1ifesYH2G?si=s1voDX2TqGKF9S7o)
 
 Imagine an equity-like token offering the explosive 50%+ year-over-year growth potential of a small-to-mid-cap company, combined with the effortless exit liquidity of a large-cap stock, all while delivering consistent 10%+ dividend yields. This is the future of e-commerce investment, unconstrained by traditional market limitations. The current $8.1 trillion global e-commerce sector, projected to grow further, grapples with a $12 trillion liquidity gap, hindering small and medium-sized businesses (SMBs) and leaving investors searching for high-yield, non-speculative opportunities in real-world assets (RWAs). Traditional financing models—relying on manual oversight, opaque reporting, and costly intermediaries—fail to bridge this $12 trillion gap in an efficient way.
 
