@@ -25,11 +25,12 @@ description: >-
 
 **3. Platform Fee Model**
 
-The platform’s fee model is designed to align incentives and ensure long‑term commitment:
+The platform's fee model is designed to align incentives and ensure long‑term commitment:
 
 * **Performance-Linked Stake:** Merchants must lock up 5% of their market cap as a Performance‑Linked Stake. These funds are held in [ALAR ](<../README (2).md#automated-liquidity-assurance-reserve-alar>)and are gradually unlocked as revenue targets are met. This mechanism not only secures merchant commitment but also enhances yield for stakers by backing the Super Senior Tranche.
 * **Management & Carry Fees:** The platform charges a 1% management fee and a 2% performance‑based carry fee—applied only if stakers are profitable over their staking period. This fee structure ensures that fees are collected solely when the platform delivers positive returns, mirroring best practices in private credit while maintaining transparency.
 * **Urgent Liquidation Fee:** To discourage opportunistic short‑term staking solely for dividend capture, any unstaking within the first week incurs a 20% penalty fee. This fee safeguards the liquidity pool by ensuring participants remain committed for a meaningful period.
+* **Spillover & ALAR Protection Mechanism:** 20% of any spillover from the senior tranche to the junior tranche is automatically directed to [ALAR](<../README (2).md#automated-liquidity-assurance-reserve-alar>) to strengthen the reserve pool. When ALAR is activated to cover the guaranteed minimum yield (11%) for senior tranche holders, all junior tranche participants face an additional 1-month lock-up period for unstaking. This mechanism ensures that junior tranche holders share responsibility for system stability when ALAR resources are deployed to maintain senior tranche guarantees.
 
 **4. The Business Hook**
 

@@ -6,8 +6,6 @@ description: >-
 
 # Executive Summary
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
-
 {% embed url="https://www.youtube.com/clip/UgkxFpn6pC52eQPEvy4Elps7BeV1ifesYH2G" %}
 Real "Internet Capital Markets" comes when developers can issue equity coins that have real claims on real cash flows
 {% endembed %}
