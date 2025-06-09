@@ -14,7 +14,7 @@ description: >-
 
 
 2. **Credit Risk Mitigation**
-   1. **Performance-Linked Stake:** Every merchant listing is backed by a locked 5% of market cap in [ALAR](<../README (2).md#automated-liquidity-assurance-reserve-alar>), ensuring incentive alignment.
+   1. **Performance-Linked Stake:** Every merchant listing is backed by a locked 15% of market cap in [ALAR](<../README (2).md#automated-liquidity-assurance-reserve-alar>), ensuring incentive alignment.
    2. [**Qupital’s** ](<../README (2).md#qupital>)**Risk Analytics:** Leverages API-driven financial data from 20,000+ e-commerce merchants to assess underwriting quality.
    3. **Revenue Interception Model:** PST’s smart contracts directly enforce a 10% gross revenue share, preventing underreporting.
 

@@ -9,7 +9,7 @@ description: >-
 **1. Asset Onboarding & Tokenization**
 
 * **Merchant Registration:** E‑shops join the PST network by registering on‑chain and integrating with revenue tracking [APIs ](<../../README (2).md#api-application-programming-interface>)(e.g., from Amazon, Shopify, Airwallex). Each merchant’s performance is transparently recorded to inform yield distributions.
-* **Performance-Linked Stake:** At listing, merchants are required to lock 5% of their total market capitalization as a [**Performance-Linked Stake**](<../../README (2).md#performance-linked-stake>). This locked amount is held in the **Automated Liquidity Assurance Reserve (**[**ALAR**](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**)** and is gradually unlocked in installments as the merchant achieves pre‑defined revenue targets. This mechanism not only secures the merchant’s commitment but also acts as a credit enhancement tool for stakers.
+* **Performance-Linked Stake:** At listing, merchants are required to lock 15% of their total market capitalization as a [**Performance-Linked Stake**](<../../README (2).md#performance-linked-stake>). This locked amount is held in the **Automated Liquidity Assurance Reserve (**[**ALAR**](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**)** and is gradually unlocked in installments as the merchant achieves pre‑defined revenue targets. This mechanism not only secures the merchant’s commitment but also acts as a credit enhancement tool for stakers.
 
 **2. Funding & Liquidity Pool Structure**
 

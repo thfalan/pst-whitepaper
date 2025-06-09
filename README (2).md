@@ -124,7 +124,7 @@ A decentralized system that feeds external real-world data (e.g., asset prices, 
 
 #### **Performance-Linked Stake**
 
-Collateral (5% of merchant market cap) locked in ALAR. Gradually unlocks as merchants hit revenue targets, aligning merchant incentives with investor returns.
+Collateral (15% of merchant market cap) locked in ALAR. Gradually unlocks as merchants hit revenue targets, aligning merchant incentives with investor returns.
 
 #### **Profit Share Token (PST)**
 
