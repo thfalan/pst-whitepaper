@@ -6,8 +6,6 @@ description: >-
 
 # Token Overview
 
-<figure><picture><source srcset="../.gitbook/assets/tokenoverview.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (23).png" alt=""></picture><figcaption></figcaption></figure>
-
 There are 3 types of PST at initial offering:
 
 1. **Unlocked PST** - pre-sale tokens that are immediately liquid
