@@ -4,7 +4,7 @@ description: Structured Tranches for Optimized Returns
 
 # Yield Farm Scenario
 
-> We have created a basic simulation to estimate returns for a $100mil PST tokenization here: [**https://techgrity-sim.vercel.app**](https://techgrity-sim.vercel.app/)
+> We have created a basic simulation to estimate returns for a $100mil Royalty Token tokenization here: [**https://liquid-royalty-sim.vercel.app**](https://liquid-royalty-sim.vercel.app/)
 >
 > Note: Numbers are only an estimation, the return is subject to actual shop performance, AMM activity etc.
 

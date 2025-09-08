@@ -38,7 +38,7 @@ A mechanism that consolidates liquidity from multiple blockchain networks, impro
 
 #### **DAO (Decentralized Autonomous Organization)**
 
-A blockchain-governed entity where PST holders vote on protocol decisions (e.g., merchant onboarding, fee adjustments). Proposals are executed via smart contracts, eliminating centralized control while ensuring transparency.
+A blockchain-governed entity where Royalty Token holders vote on protocol decisions (e.g., merchant onboarding, fee adjustments). Proposals are executed via smart contracts, eliminating centralized control while ensuring transparency.
 
 #### **Days Inventory Outstanding (DIO)**
 
@@ -86,7 +86,7 @@ Blockchain frameworks (e.g., Optimistic Rollups, zk-Rollups) that enhance transa
 
 #### **Liquidity Pool (LP)**
 
-A decentralized exchange mechanism where users stake paired tokens (e.g., PST/USDC) to enable trading. LP providers earn fees and incentives while ensuring market liquidity.
+A decentralized exchange mechanism where users stake paired tokens (e.g., Royalty Token/USDC) to enable trading. LP providers earn fees and incentives while ensuring market liquidity.
 
 #### **Market-Making Bot**
 
@@ -126,7 +126,7 @@ A decentralized system that feeds external real-world data (e.g., asset prices, 
 
 Collateral (15% of merchant market cap) locked in ALAR. Gradually unlocks as merchants hit revenue targets, aligning merchant incentives with investor returns.
 
-#### **Profit Share Token (PST)**
+#### **Royalty Token**
 
 A digital token representing fractional ownership of tokenized e-commerce cash flows. Delivers automated 10% gross revenue dividends via smart contracts and grants governance rights.
 
@@ -136,7 +136,7 @@ A liquidity model where the protocol itself owns and manages liquidity pools, en
 
 #### **Qupital**
 
-A leading e-commerce financier managing $2B+ in loans since 2018. Acts as PST’s underwriter, vetting merchants using real-time sales data and maintaining a 0.1% default rate.
+A leading e-commerce financier managing $2B+ in loans since 2018. Acts as Royalty Token's underwriter, vetting merchants using real-time sales data and maintaining a 0.1% default rate.
 
 #### **Revenue-Based Financing (RBF)**
 
@@ -148,7 +148,7 @@ A set of automated security measures, including audit trails, kill switches, and
 
 #### **Smart Contract Dividend Wallet**
 
-An on-chain, programmatic wallet that automatically collects intercepted merchant revenue, converts it to stablecoins, and distributes dividends to PST holders. Features:
+An on-chain, programmatic wallet that automatically collects intercepted merchant revenue, converts it to stablecoins, and distributes dividends to Royalty Token holders. Features:
 
 * **Automation**: No manual intervention; payouts occur monthly via immutable code.
 * **Transparency**: All transactions are logged on-chain for real-time auditing.
@@ -167,7 +167,7 @@ Risk-tiered investment categories:
 
 #### **Yield Farm**
 
-A staking product offering tiered returns based on locked PST or LP tokens. Combines dividends, trading fees, and partner incentives to maximize yields.
+A staking product offering tiered returns based on locked Royalty Token or LP tokens. Combines dividends, trading fees, and partner incentives to maximize yields.
 
 #### **Zero-Knowledge Proofs (ZKPs)**
 

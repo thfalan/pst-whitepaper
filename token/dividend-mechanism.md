@@ -1,6 +1,6 @@
 ---
 description: >-
-  Dividend Mechanism: Profit Share Token (PST) Protocol - Automated,
+  Dividend Mechanism: Royalty Token Protocol - Automated,
   Transparent, and Investor-Centric Distribution
 ---
 

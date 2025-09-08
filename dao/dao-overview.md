@@ -10,7 +10,7 @@ Traditional equity offerings drain investor value through multiple layers of fee
 
 Up to USD 2,500,000 is lost before trading begins, plus the lengthy application process and regulatory overhead, with no guarantee of success.
 
-In contrast, PST DAO disrupts this model with the following:
+In contrast, Royalty Token DAO disrupts this model with the following:
 
 
 

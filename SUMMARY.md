@@ -5,9 +5,9 @@
 ## Introduction
 
 * [Introduction – Market Opportunity & Problem](introduction/introduction-market-opportunity-and-problem.md)
-* [Solution Overview](introduction/solution-overview-pst-at-a-glance.md)
+* [Solution Overview](introduction/solution-overview-royalty-token-at-a-glance.md)
 * [Participants & Roles](introduction/participants-and-roles.md)
-* [Profit Share - Token originator & initial offering](<README (1).md>)
+* [Royalty Token - Token originator & initial offering](<README (1).md>)
 * [Glossary](<README (2).md>)
 
 ## Token

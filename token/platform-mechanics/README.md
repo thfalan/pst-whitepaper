@@ -8,12 +8,12 @@ description: >-
 
 **1. Asset Onboarding & Tokenization**
 
-* **Merchant Registration:** E‑shops join the PST network by registering on‑chain and integrating with revenue tracking [APIs ](<../../README (2).md#api-application-programming-interface>)(e.g., from Amazon, Shopify, Airwallex). Each merchant’s performance is transparently recorded to inform yield distributions.
+* **Merchant Registration:** E‑shops join the Royalty Token network by registering on‑chain and integrating with revenue tracking [APIs ](<../../README (2).md#api-application-programming-interface>)(e.g., from Amazon, Shopify, Airwallex). Each merchant’s performance is transparently recorded to inform yield distributions.
 * **Performance-Linked Stake:** At listing, merchants are required to lock 15% of their total market capitalization as a [**Performance-Linked Stake**](<../../README (2).md#performance-linked-stake>). This locked amount is held in the **Automated Liquidity Assurance Reserve (**[**ALAR**](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**)** and is gradually unlocked in installments as the merchant achieves pre‑defined revenue targets. This mechanism not only secures the merchant’s commitment but also acts as a credit enhancement tool for stakers.
 
 **2. Funding & Liquidity Pool Structure**
 
-* **Pooled Staking Model:** Investors (stakers) contribute PST tokens to the platform’s AMM liquidity pool. Unlike traditional financing, these funds are not allocated directly to any merchant; rather, they are managed algorithmically by smart contracts. This structure protects investor capital by eliminating direct exposure to merchant operations while still allowing stakers to benefit from the underlying e‑shop cashflows.
+* **Pooled Staking Model:** Investors (stakers) contribute Royalty Token to the platform’s AMM liquidity pool. Unlike traditional financing, these funds are not allocated directly to any merchant; rather, they are managed algorithmically by smart contracts. This structure protects investor capital by eliminating direct exposure to merchant operations while still allowing stakers to benefit from the underlying e‑shop cashflows.
 * [**ALAR** ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**Backing:** The funds locked via the Performance‑Linked Stake, combined with chain partner incentives and stablecoin incentives (e.g., rewards in WUSD), form the **Automated Liquidity Assurance Reserve (**[**ALAR**](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**)**. [ALAR ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)ensures that the most conservative investment tier—the Super Senior Tranche—receives a fixed yield of at least 11% annually, thereby underpinning investor confidence with a robust yield floor.
 
 **3. Yield Generation & Distribution**
@@ -29,7 +29,7 @@ description: >-
 
 **4. The Business Hook**
 
-By automating revenue capture and aligning incentives through [ALAR ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)and the Performance‑Linked Stake, PST redefines asset financing. It replaces traditional, opaque financing models with a fully transparent, decentralized process that ensures robust yield—even in volatile market conditions—while offering liquidity and ease of exit on decentralized exchanges.
+By automating revenue capture and aligning incentives through [ALAR ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)and the Performance‑Linked Stake, Royalty Token redefines asset financing. It replaces traditional, opaque financing models with a fully transparent, decentralized process that ensures robust yield—even in volatile market conditions—while offering liquidity and ease of exit on decentralized exchanges.
 
 The next sequence diagram shows this behaviour:&#x20;
 

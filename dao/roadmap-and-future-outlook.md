@@ -14,4 +14,4 @@ description: >-
 **2. Strengthening DeFi Market Liquidity**
 
 * **More Chain Integrations & LaunchPad Partners** to drive decentralized adoption.
-* **Enhancing AMM Efficiency for PST Trading**, improving capital efficiency across DeFi.
+* **Enhancing AMM Efficiency for Royalty Token Trading**, improving capital efficiency across DeFi.

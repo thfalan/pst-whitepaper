@@ -4,13 +4,13 @@ description: >-
   Secured, Transparent, and Scalable Solutions
 ---
 
-# Profit Share - Token originator & initial offering
+# Royalty Token - Token originator & initial offering
 
 <figure><img src=".gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
 
 [Qupital ](<README (2).md#qupital>)as a leading e-commerce merchant credit underwriter in Greater China, introduces a tokenization framework that transforms e-commerce assets into tradeable digital tokens.&#x20;
 
-Through this framework, [Qupital ](<README (2).md#qupital>)converts future cash flows, receivables and inventory assets into Profit Share Tokens (PST), enabling direct investment into e-commerce stores' cash flows.
+Through this framework, [Qupital ](<README (2).md#qupital>)converts future cash flows, receivables and inventory assets into Royalty Tokens, enabling direct investment into e-commerce stores' cash flows.
 
 [Qupital ](<README (2).md#qupital>)implements a dual-control system over merchant operations:
 
@@ -38,6 +38,6 @@ In the first series of e-commerce tokenizations, [Qupital ](<README (2).md#qupit
 * **Perfect repayment history** - merchants that have no history of delinquency
 * **Data Integrity** - Trustworthy data cross validated by multiple third party sources including ecommerce platforms and payment service providers
 
-PST tokenholders are able to partake in the growth trajectory of the merchant through a secured closed loop profit sharing system.
+Royalty Token holders are able to partake in the growth trajectory of the merchant through a secured closed loop royalty sharing system.
 
 By transferring the store ownership to the [DAO](<README (2).md#dao-decentralized-autonomous-organization>), the merchant is able to raise capital efficiently and cost effectively.

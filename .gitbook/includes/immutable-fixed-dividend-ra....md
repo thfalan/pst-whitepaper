@@ -2,14 +2,14 @@
 title: Immutable Fixed Dividend Ra...
 ---
 
-**Dividend Mechanism: Profit Share Token (PST) Protocol**\
+**Dividend Mechanism: Royalty Token Protocol**\
 &#xNAN;_&#x41;utomated, Transparent, and Investor-Centric Distribution_
 
 ***
 
 ### **1. Fixed Dividend Rate: Immutable Investor Protection**
 
-The PST protocol enforces a **fixed dividend rate of 10% of gross sales revenue**, irrevocably encoded into the smart contract at the pre-sale stage. This rate applies to all tokenized e-commerce stores and remains immutable throughout the token lifecycle, ensuring:
+The Royalty Token protocol enforces a **fixed dividend rate of 10% of gross sales revenue**, irrevocably encoded into the smart contract at the pre-sale stage. This rate applies to all tokenized e-commerce stores and remains immutable throughout the token lifecycle, ensuring:
 
 * **No Discretionary Adjustments**: Eliminates issuer or operator interference, protecting investors from dilution or arbitrary rate reductions.
 * **Gross Revenue Basis**: Dividends are calculated on total sales (pre-expenses), insulating returns from merchant operational inefficiencies.
@@ -19,7 +19,7 @@ The PST protocol enforces a **fixed dividend rate of 10% of gross sales revenue*
 
 ### **2. Automated Computation & Fraud Prevention**
 
-The PST protocol leverages **real-time API integrations** with pledged e-commerce platforms (e.g., Amazon Seller Central), payment processors (e.g., Airwallex), and inventory systems to validate revenue streams and prevent collusion:
+The Royalty Token protocol leverages **real-time API integrations** with pledged e-commerce platforms (e.g., Amazon Seller Central), payment processors (e.g., Airwallex), and inventory systems to validate revenue streams and prevent collusion:
 
 * **Triangulated Data Verification**:
   * Sales data is cross-referenced across Amazon storefronts, bank settlements, and inventory turnover metrics.
@@ -52,18 +52,18 @@ Dividends are distributed as **multi-chain stablecoins** (USDC, USDT, WUSD, HKDA
 1. **Revenue Conversion**:
    * Intercepted fiat revenue is converted to stablecoins through licensed custodians (e.g., Circle, Tether).
 2. **On-Chain Minting**:
-   * Stablecoins are minted as wrapped tokens (e.g., WUSD) on PST’s native chain for cross-DEX compatibility.
+   * Stablecoins are minted as wrapped tokens (e.g., WUSD) on Royalty Token's native chain for cross-DEX compatibility.
 3. **Pro-Rata Airdrops**:
-   * A Smart Contract Dividend Wallet distributes tokens monthly to PST holders’ wallets, weighted by holdings.
+   * A Smart Contract Dividend Wallet distributes tokens monthly to Royalty Token holders' wallets, weighted by holdings.
    * Transactions are immutably logged on-chain, with real-time dashboards for institutional auditing.
 
 ***
 
 ### **5. Superiority to Traditional RWA Protocols**
 
-PST’s architecture addresses critical flaws in conventional Real World Asset (RWA) models:
+Royalty Token's architecture addresses critical flaws in conventional Real World Asset (RWA) models:
 
-| **Feature**             | **Traditional RWA Protocols**              | **PST Protocol**                          |
+| **Feature**             | **Traditional RWA Protocols**              | **Royalty Token Protocol**                          |
 | ----------------------- | ------------------------------------------ | ----------------------------------------- |
 | **Revenue Enforcement** | Manual invoicing, off-chain legal remedies | Real-time interception via KPSC           |
 | **Fraud Detection**     | Quarterly audits, delayed reconciliation   | Instant API-driven anomaly detection      |
@@ -74,9 +74,9 @@ PST’s architecture addresses critical flaws in conventional Real World Asset (
 
 ### **6. Future Governance & Expansion**
 
-PST farm stakers gain **DAO governance rights**, aligning long-term incentives:
+Royalty Token farm stakers gain **DAO governance rights**, aligning long-term incentives:
 
-* **Voting Power**: Staked PST/LP tokens grant proportional votes on mergers, acquisitions, and store delistings.
+* **Voting Power**: Staked Royalty Token/LP tokens grant proportional votes on mergers, acquisitions, and store delistings.
 * **Privatization Events**: Token holders approve buyouts, with proceeds distributed as smart contract-enforced dividends.
 * **Performance-Linked Unlocks**:
   * Merchants unlock LP tokens only after hitting revenue growth targets (e.g., +20% YoY), verified by oracles.
@@ -86,5 +86,5 @@ PST farm stakers gain **DAO governance rights**, aligning long-term incentives:
 
 ### **Conclusion: Institutional-Grade Assurance**
 
-The PST dividend mechanism combines **automated enforcement**, **blockchain-final transparency**, and **regulatory-compliant stablecoin rails** to deliver unmatched reliability for institutional investors. By eliminating intermediary risk and embedding investor protections at the protocol layer, PST sets a new benchmark for RWAs in decentralized finance.
+The Royalty Token dividend mechanism combines **automated enforcement**, **blockchain-final transparency**, and **regulatory-compliant stablecoin rails** to deliver unmatched reliability for institutional investors. By eliminating intermediary risk and embedding investor protections at the protocol layer, Royalty Token sets a new benchmark for RWAs in decentralized finance.
 
