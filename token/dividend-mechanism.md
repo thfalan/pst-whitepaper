@@ -1,6 +1,6 @@
 ---
 description: >-
-  Dividend Mechanism: Royalty Token Protocol - Automated,
+  Dividend Mechanism: Liquid Royalty protocol - Automated,
   Transparent, and Investor-Centric Distribution
 ---
 

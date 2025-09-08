@@ -4,7 +4,7 @@ description: Integrating Structured Finance with Blockchain Technology
 
 # Solution Overview
 
-The Royalty Token Protocol addresses e-commerce liquidity gaps by tokenizing a share of real-world merchant revenue, derived from captured sales, into tradable digital assets that yield stablecoin dividends. Royalty Token merges traditional finance principles with blockchain's transparency, accessibility, and automation.
+The Liquid Royalty protocol addresses e-commerce liquidity gaps by tokenizing a share of real-world merchant revenue, derived from captured sales, into tradable digital assets that yield stablecoin dividends. Royalty Token merges traditional finance principles with blockchain's transparency, accessibility, and automation.
 
 **How Royalty Token Works: The Core Mechanism**
 

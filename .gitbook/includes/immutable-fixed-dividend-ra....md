@@ -2,14 +2,14 @@
 title: Immutable Fixed Dividend Ra...
 ---
 
-**Dividend Mechanism: Royalty Token Protocol**\
+**Dividend Mechanism: Liquid Royalty Protocol**\
 &#xNAN;_&#x41;utomated, Transparent, and Investor-Centric Distribution_
 
 ***
 
 ### **1. Fixed Dividend Rate: Immutable Investor Protection**
 
-The Royalty Token protocol enforces a **fixed dividend rate of 10% of gross sales revenue**, irrevocably encoded into the smart contract at the pre-sale stage. This rate applies to all tokenized e-commerce stores and remains immutable throughout the token lifecycle, ensuring:
+The Liquid Royalty protocol enforces a **fixed dividend rate of 10% of gross sales revenue**, irrevocably encoded into the smart contract at the pre-sale stage. This rate applies to all tokenized e-commerce stores and remains immutable throughout the token lifecycle, ensuring:
 
 * **No Discretionary Adjustments**: Eliminates issuer or operator interference, protecting investors from dilution or arbitrary rate reductions.
 * **Gross Revenue Basis**: Dividends are calculated on total sales (pre-expenses), insulating returns from merchant operational inefficiencies.
@@ -19,7 +19,7 @@ The Royalty Token protocol enforces a **fixed dividend rate of 10% of gross sale
 
 ### **2. Automated Computation & Fraud Prevention**
 
-The Royalty Token protocol leverages **real-time API integrations** with pledged e-commerce platforms (e.g., Amazon Seller Central), payment processors (e.g., Airwallex), and inventory systems to validate revenue streams and prevent collusion:
+The Liquid Royalty protocol leverages **real-time API integrations** with pledged e-commerce platforms (e.g., Amazon Seller Central), payment processors (e.g., Airwallex), and inventory systems to validate revenue streams and prevent collusion:
 
 * **Triangulated Data Verification**:
   * Sales data is cross-referenced across Amazon storefronts, bank settlements, and inventory turnover metrics.
@@ -63,7 +63,7 @@ Dividends are distributed as **multi-chain stablecoins** (USDC, USDT, WUSD, HKDA
 
 Royalty Token's architecture addresses critical flaws in conventional Real World Asset (RWA) models:
 
-| **Feature**             | **Traditional RWA Protocols**              | **Royalty Token Protocol**                          |
+| **Feature**             | **Traditional RWA Protocols**              | **Liquid Royalty protocol**                          |
 | ----------------------- | ------------------------------------------ | ----------------------------------------- |
 | **Revenue Enforcement** | Manual invoicing, off-chain legal remedies | Real-time interception via KPSC           |
 | **Fraud Detection**     | Quarterly audits, delayed reconciliation   | Instant API-driven anomaly detection      |
