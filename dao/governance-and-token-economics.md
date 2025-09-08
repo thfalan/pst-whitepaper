@@ -14,10 +14,10 @@ description: >-
 **2. Royalty Token Utility & Exposure**
 
 * **Direct Exposure to E‑Shop Cashflows:** Each Royalty Token is directly tied to a portfolio of e‑shops, meaning that Royalty Token holders gain exposure to the underlying cashflow growth of these businesses. This creates an attractive, yield‑generating asset class that mirrors the performance of real‑world revenue.
-* **Staking Product as a Regulatory Workaround:** Although Royalty Token themselves may be classified as securities, the staking product—where investors lock their tokens into the AMM pool—has been designed (and reviewed by legal experts) to avoid such classification. By converting direct revenue claims into performance‑based staking rewards, the product offers superior investor experience:
+* **Staking Product as a Regulatory Buffer:** Although Royalty Token themselves may be classified as securities, the staking product—where investors lock their tokens into the AMM pool—has been designed (and reviewed by legal experts) to avoid such classification. By converting direct revenue claims into performance‑based staking rewards, the product offers superior investor experience:
   * **Higher and More Stable Yields:** With yields backed by [ALAR ](<../README (2).md#automated-liquidity-assurance-reserve-alar>)and the Performance‑Linked Stake, investors enjoy competitive returns.
   * **Enhanced Liquidity:** Staked assets can be traded on decentralized exchanges with real‑time price reference.
-  * **Regulatory Compliance:** Leveraging partners like DigiFT from Singapore, the platform adheres to full compliance infrastructure across multiple jurisdictions.
+  * **Regulatory Compliance:** Leveraging our network of TradFi partners, the platform adheres to full compliance infrastructure across multiple jurisdictions.
 * **Utility Functions:** Beyond staking, Royalty Token serve multiple roles:
   * **Governance:** Token holders vote on protocol changes and strategic decisions.
   * **Fee Benefits:** Holders may receive fee reductions and bonus incentives.

@@ -30,7 +30,3 @@ description: >-
 **4. The Business Hook**
 
 By automating revenue capture and aligning incentives through [ALAR ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)and the Performance‑Linked Stake, Royalty Token redefines asset financing. It replaces traditional, opaque financing models with a fully transparent, decentralized process that ensures robust yield—even in volatile market conditions—while offering liquidity and ease of exit on decentralized exchanges.
-
-The next sequence diagram shows this behaviour:&#x20;
-
-<figure><img src="../../.gitbook/assets/Platform Mechanics.png" alt=""><figcaption></figcaption></figure>

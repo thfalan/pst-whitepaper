@@ -10,7 +10,7 @@ description: >-
 
 There are 2 tranches of the farm associated with Royalty Token liquidity pool:
 
-1. **Senior** [**Tranche** ](<../README (2).md#tranche>)- for conservative fixed income type of investors, has highest priority of yield up to 11% APY
+1. **Senior** [**Tranche** ](<../README (2).md#tranche>)- for conservative fixed income type of investors, has highest priority of yield up to 13% APY
 2. **Junior** [**Tranche** ](<../README (2).md#tranche>)- for more aggressive type of investors, any yield that exceeds **Senior Tranche** goes here
 
 For example calculation refer to:
