@@ -14,16 +14,16 @@ Liquid Royalty Protocol creates Royalty Tokens distributing regular stablecoin d
 
 1. **Revenue Capture:** Merchant sales revenue is automatically directed via integrations (e.g., payment gateways) to a smart contract controlled bank account.
 2. **Automated Processing:** The smart contract then automatically:
-   * **Segregates Royalty Share:** Isolates the pre-agreed percentage of revenue - default is set at 10%.
+   * **Segregates Royalty Share:** Isolates the pre-agreed percentage of revenue - currently set at 10% based on market carp and profit margins of our typical merchant profiles.
    * **Converts to Stablecoins:** Converts this royalty share to stablecoins, transferring them to the Royalty Token Dividend Wallet.
-   * **Remits to Merchant:** Returns the remaining revenue (e.g., $90) to the merchant.
+   * **Remits to Merchant:** Returns the remaining topline cashflow (e.g. $90) to the merchant.
 3. **Dividend Distribution:** Monthly, accumulated stablecoins in the Dividend Wallet are distributed pro-rata to Royalty Token holders and Liquidity Pool.
 
 This ensures only the agreed royalty is tokenized, merchants receive their operational revenue promptly, and investors earn stablecoin dividends from e-commerce revenue.
 
 **Structured Investment Products**
 
-Beyond the core token, Liquid Royalty Protocol supports structured products like Senior (Fixed 11-13% APY) and Junior tranches. These are backed by diversified pools of tokenized royalty shares from various merchants, allowing investors to tailor risk and return.
+Beyond the core token, Liquid Royalty Protocol supports structured products like Senior (Fixed 11-13% APY) and Junior tranches (spillover yield). These are backed by diversified pools of tokenized royalty shares from various merchants, allowing investors to tailor risk and return.
 
 **Key Features & Benefits:**
 
