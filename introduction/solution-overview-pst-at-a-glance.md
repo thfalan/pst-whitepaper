@@ -10,16 +10,16 @@ The Liquid Royalty Protocol addresses e-commerce liquidity gaps by tokenizing a 
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-Liquid Royalty Protocol creates a token distributing regular stablecoin dividends from e-commerce revenue:
+Liquid Royalty Protocol creates Royalty Tokens distributing regular stablecoin dividends from e-commerce revenue:
 
 1.  **Revenue Capture:** Merchant sales revenue is automatically directed via integrations (e.g., payment gateways) to a smart contract controlled bank account.
 
 
 2. **Automated Processing:** The smart contract then automatically:
    * **Segregates Royalty Share:** Isolates the pre-agreed percentage of revenue - default is set at 10%.
-   * **Converts to Stablecoins:** Converts this royalty share to stablecoins, transferring them to the Liquid Royalty Protocol Dividend Wallet.
+   * **Converts to Stablecoins:** Converts this royalty share to stablecoins, transferring them to the Royalty Token Dividend Wallet.
    * **Remits to Merchant:** Returns the remaining revenue (e.g., $90) to the merchant.
-3. **Dividend Distribution:** Monthly, accumulated stablecoins in the Dividend Wallet are distributed pro-rata to Liquid Royalty Token holders and Liquidity Pool.
+3. **Dividend Distribution:** Monthly, accumulated stablecoins in the Dividend Wallet are distributed pro-rata to Royalty Token holders and Liquidity Pool.
 
 This ensures only the agreed royalty is tokenized, merchants receive their operational revenue promptly, and investors earn stablecoin dividends from e-commerce revenue.
 
@@ -34,9 +34,8 @@ Beyond the core token, Liquid Royalty Protocol supports structured products like
 * **Merchant Benefits:** Access capital by sharing future revenue, with seamless integration and prompt revenue remittance.
 * **Accessible Yields:** Opens access to e-commerce profit-sharing yields.
 
-**In Essence:**\
+**In Essence:**
+
 Liquid Royalty Protocol captures e-commerce revenue, tokenizes an agreed royalty share for stablecoin dividends, and returns the rest to merchants. It offers automated growth capital for merchants and real-cash-flow-backed yields for investors.
 
 ***
-
-\

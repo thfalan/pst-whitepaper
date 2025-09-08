@@ -10,7 +10,7 @@ The Liquid Royalty Protocol overcomes these challenges by leveraging four key bl
 
 * **Adaptive Yield Mechanism (AYM)** – A dynamic system that optimizes investment returns by adjusting yield rates based on liquidity conditions and risk factors.
 * **Automated Market Intelligence (AMI)** – A real-time analytics engine that enhances transparency by continuously monitoring merchant revenue, investment performance, and market trends.
-* **Automated Market Maker (AMM)** – A liquidity solution that allows Liquid Royalty Token holders to trade tokenized revenue streams seamlessly, eliminating the **capital lock-in problem** of traditional private credit markets.
+* **Automated Market Maker (AMM)** – A liquidity solution that allows Royalty Token holders to trade tokenized revenue streams seamlessly, eliminating the **capital lock-in problem** of traditional private credit markets.
 * **Automated Liquidity Assurance Reserve (ALAR)** – A decentralized reserve that stabilizes yields for investors and mitigates liquidity risks, ensuring reliable returns for senior tranche participants.
 
 #### **1.** [**Adaptive Yield Mechanism**](<../../README (2).md#adaptive-yield-mechanism-aym>) **(AYM) → Solving Inefficiency in Financing**
@@ -37,7 +37,7 @@ One of the main deterrents for investors in private credit markets is illiquidit
 
 * Relation to Liquid Royalty Protocol:
   * Liquid Royalty Protocol can be traded on an AMM-based liquidity pool, ensuring that investors can enter or exit positions without long lock-up periods.
-  * Instead of waiting months or years to access funds, investors can swap Liquid Royalty Token for stablecoins (USDC) instantly, improving liquidity.
+  * Instead of waiting months or years to access funds, investors can swap Royalty Token for stablecoins (USDC) instantly, improving liquidity.
   * This eliminates the rigid lock-in problem found in traditional financing, making tokenized e-commerce revenue streams more liquid and accessible.
 
 #### **4.** [**Automated Liquidity Assurance Reserve**](<../../README (2).md#automated-liquidity-assurance-reserve-alar>) **(ALAR) → Providing Institutional-Grade Stability**

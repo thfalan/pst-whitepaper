@@ -13,7 +13,7 @@ description: >-
 
 **2. Funding & Liquidity Pool Structure**
 
-* **Pooled Staking Model:** Investors (stakers) contribute Liquid Royalty Token to the platform's AMM liquidity pool. Unlike traditional financing, these funds are not allocated directly to any merchant; rather, they are managed algorithmically by smart contracts. This structure protects investor capital by eliminating direct exposure to merchant operations while still allowing stakers to benefit from the underlying e‑shop cashflows.
+* **Pooled Staking Model:** Investors (stakers) contribute Royalty Token to the platform's AMM liquidity pool. Unlike traditional financing, these funds are not allocated directly to any merchant; rather, they are managed algorithmically by smart contracts. This structure protects investor capital by eliminating direct exposure to merchant operations while still allowing stakers to benefit from the underlying e‑shop cashflows.
 * [**ALAR** ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**Backing:** The funds locked via the Performance‑Linked Stake, combined with chain partner incentives and stablecoin incentives (e.g., rewards in WUSD), form the **Automated Liquidity Assurance Reserve (**[**ALAR**](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)**)**. [ALAR ](<../../README (2).md#automated-liquidity-assurance-reserve-alar>)ensures that the most conservative investment tier—the Super Senior Tranche—receives a fixed yield of at least 11% annually, thereby underpinning investor confidence with a robust yield floor.
 
 **3. Yield Generation & Distribution**
