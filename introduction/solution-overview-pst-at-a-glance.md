@@ -4,28 +4,28 @@ description: Integrating Structured Finance with Blockchain Technology
 
 # Solution Overview
 
-The Liquid Royalty protocol addresses e-commerce liquidity gaps by tokenizing a share of real-world merchant revenue, derived from captured sales, into tradable digital assets that yield stablecoin dividends. Royalty Token merges traditional finance principles with blockchain's transparency, accessibility, and automation.
+The Liquid Royalty Protocol addresses e-commerce liquidity gaps by tokenizing a share of real-world merchant revenue, derived from captured sales, into tradable digital assets that yield stablecoin dividends. Liquid Royalty Protocol merges traditional finance principles with blockchain's transparency, accessibility, and automation.
 
-**How Royalty Token Works: The Core Mechanism**
+**How Liquid Royalty Protocol Works: The Core Mechanism**
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-Royalty Token creates a token distributing regular stablecoin dividends from e-commerce revenue:
+Liquid Royalty Protocol creates a token distributing regular stablecoin dividends from e-commerce revenue:
 
 1.  **Revenue Capture:** Merchant sales revenue is automatically directed via integrations (e.g., payment gateways) to a smart contract controlled bank account.
 
 
 2. **Automated Processing:** The smart contract then automatically:
    * **Segregates Royalty Share:** Isolates the pre-agreed percentage of revenue - default is set at 10%.
-   * **Converts to Stablecoins:** Converts this royalty share to stablecoins, transferring them to the Royalty Token Dividend Wallet.
+   * **Converts to Stablecoins:** Converts this royalty share to stablecoins, transferring them to the Liquid Royalty Protocol Dividend Wallet.
    * **Remits to Merchant:** Returns the remaining revenue (e.g., $90) to the merchant.
-3. **Dividend Distribution:** Monthly, accumulated stablecoins in the Dividend Wallet are distributed pro-rata to Royalty Token holders and Liquidity Pool.
+3. **Dividend Distribution:** Monthly, accumulated stablecoins in the Dividend Wallet are distributed pro-rata to Liquid Royalty Token holders and Liquidity Pool.
 
 This ensures only the agreed royalty is tokenized, merchants receive their operational revenue promptly, and investors earn stablecoin dividends from e-commerce revenue.
 
 **Structured Investment Products**
 
-Beyond the core token, Royalty Token supports structured products like Senior (Fixed 11-13% APY) and Junior tranches. These are backed by diversified pools of tokenized royalty shares from various merchants, allowing investors to tailor risk and return.
+Beyond the core token, Liquid Royalty Protocol supports structured products like Senior (Fixed 11-13% APY) and Junior tranches. These are backed by diversified pools of tokenized royalty shares from various merchants, allowing investors to tailor risk and return.
 
 **Key Features & Benefits:**
 
@@ -35,7 +35,7 @@ Beyond the core token, Royalty Token supports structured products like Senior (F
 * **Accessible Yields:** Opens access to e-commerce profit-sharing yields.
 
 **In Essence:**\
-Royalty Token captures e-commerce revenue, tokenizes an agreed royalty share for stablecoin dividends, and returns the rest to merchants. It offers automated growth capital for merchants and real-cash-flow-backed yields for investors.
+Liquid Royalty Protocol captures e-commerce revenue, tokenizes an agreed royalty share for stablecoin dividends, and returns the rest to merchants. It offers automated growth capital for merchants and real-cash-flow-backed yields for investors.
 
 ***
 
