@@ -8,13 +8,11 @@ The Liquid Royalty Protocol addresses e-commerce liquidity gaps by tokenizing a 
 
 **How Liquid Royalty Protocol Works: The Core Mechanism**
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 Liquid Royalty Protocol creates Royalty Tokens distributing regular stablecoin dividends from e-commerce revenue:
 
-1.  **Revenue Capture:** Merchant sales revenue is automatically directed via integrations (e.g., payment gateways) to a smart contract controlled bank account.
-
-
+1. **Revenue Capture:** Merchant sales revenue is automatically directed via integrations (e.g., payment gateways) to a smart contract controlled bank account.
 2. **Automated Processing:** The smart contract then automatically:
    * **Segregates Royalty Share:** Isolates the pre-agreed percentage of revenue - default is set at 10%.
    * **Converts to Stablecoins:** Converts this royalty share to stablecoins, transferring them to the Royalty Token Dividend Wallet.
