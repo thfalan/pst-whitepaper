@@ -47,12 +47,12 @@ Stratosphere’s proprietary KPSC technology enables **blockchain control over W
 
 ### **4. Stablecoin Settlement & Airdrop Distribution**
 
-Dividends are distributed as **multi-chain stablecoins** (USDC, USDT, WUSD, HKDA) via a fully automated pipeline:
+Dividends are distributed as **stablecoin** (USDe) via a fully automated pipeline:
 
 1. **Revenue Conversion**:
-   * Intercepted fiat revenue is converted to stablecoins through licensed custodians (e.g., Circle, Tether).
+   * Intercepted fiat revenue is converted to stablecoins through licensed custodians.
 2. **On-Chain Minting**:
-   * Stablecoins are minted as wrapped tokens (e.g., WUSD) on Royalty Token's native chain for cross-DEX compatibility.
+   * Stablecoins are minted as on Royalty Token's native chain for cross-DEX compatibility.
 3. **Pro-Rata Airdrops**:
    * A Smart Contract Dividend Wallet distributes tokens monthly to Royalty Token holders' wallets, weighted by holdings.
    * Transactions are immutably logged on-chain, with real-time dashboards for institutional auditing.

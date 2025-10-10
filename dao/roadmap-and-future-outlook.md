@@ -9,7 +9,7 @@ description: >-
 **1. Expanding Regulatory Partnerships**
 
 * **Targeting one licensed exchange per major jurisdiction** (Korea, Japan, Taiwan, Hong Kong, Europe) for enhanced compliance distribution.
-* **Stablecoin Partner Expansion:** Working with partners like WUSD to deepen liquidity access for on-chain settlement.
+* **Stablecoin Partner Expansion:** Working with partners like Ethena USDe to deepen liquidity access for on-chain settlement.
 
 **2. Strengthening DeFi Market Liquidity**
 
