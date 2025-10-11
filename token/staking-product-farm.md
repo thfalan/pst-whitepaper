@@ -1,21 +1,29 @@
 ---
-description: >-
-  Staking Product: Diversified Yield Farming Tranches for Tailored Investment
-  Strategies
+description: 'Liquid Staking: Diversified Staking for Every Investor'
 ---
 
-# Staking
+# Liquid Staking
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-11 at 10.03.17 AM.png" alt=""><figcaption><p>Yield Farming Tranches</p></figcaption></figure>
 
-There are 3 distinct staking products LiquidRoyalty provides:
+LiquidRoyalty offers three distinct staking products, allowing you to choose your preferred balance of risk and reward. Our innovative tiered system ensures sustainable yields for all participants.
 
-1. **Senior** [**Tranche** ](<../README (2).md#tranche>)- for conservative fixed income type of investors who are looking to optimise the yield of their stablecoin exposure, has highest priority of yield from 11% APY up to 13% APY, the ALAR vault guarantees the yield of Senior Tranche
-2. **Junior** [**Tranche** ](<../README (2).md#tranche>)- for more aggressive type of investors, 80% of the yield that exceeds **Senior Tranche** goes here
-3. ALAR - ALAR takes 20% of the yield spillover to assure sustain the continuous overcollateralisation of Senior Tranche yield guarantee
+1. **🏦 Senior Tranche (snrUSD) - The Secure Income Stream**
 
-For example calculation refer to:
+* **For:** The conservative investor.
+* **Profile:** You prioritize capital preservation and a predictable, stablecoin-denominated return.
+* **How it Works:** Your yield is **guaranteed** by the ALAR vault, offering a fixed APY of 11-13%—the highest priority payout in the ecosystem.
 
-{% content-ref url="../appendix/yield-farm-scenario.md" %}
-[yield-farm-scenario.md](../appendix/yield-farm-scenario.md)
-{% endcontent-ref %}
+2. **⚡ Junior Tranche (JUNIOR) - The High-Growth Engine**
+
+* **For:** The growth-oriented investor.
+* **Profile:** You are comfortable with higher volatility for a significantly amplified return.
+* **How it Works:** You capture **80% of all yield generated above the Senior Tranche's guarantee**, offering uncapped upside potential.
+
+3. **🛡️ ALAR (ALAR) - The Foundation of Stability**
+
+* **For:** The long-term ecosystem believer.
+* **Profile:** You are invested in the protocol's health and sustainability.
+* **How it Works:** ALAR stakers receive **20% of the excess yield**, which directly funds the Senior guarantee, ensuring its long-term reliability and creating a virtuous cycle of growth.
+
+**Transparent Fees:** A 1% annual management fee (charged monthly) and a 2% performance fee upon unstaking ensure the continued development and security of the protocol.

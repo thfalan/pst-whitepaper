@@ -18,7 +18,7 @@
 * [Token Overview](token/token-overview.md)
 * [Use Cases / Examples](token/use-cases-examples.md)
 * [Token Vesting](token/token-vesting.md)
-* [Staking](token/staking-product-farm.md)
+* [Liquid Staking](token/staking-product-farm.md)
 
 ## DAO
 
@@ -36,5 +36,4 @@
 
 ## Appendix
 
-* [Yield Farm Scenario](appendix/yield-farm-scenario.md)
 * [Credits](appendix/credits.md)
