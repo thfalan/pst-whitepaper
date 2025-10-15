@@ -1,3 +1,7 @@
+---
+description: Why do we think berachain is our perfect partner
+---
+
 # Berachain
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
