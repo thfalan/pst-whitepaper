@@ -1,6 +1,6 @@
 ---
 description: >-
-  Qupital's Tokenization Framework: Empowering E-Commerce Investment with
+  Scalable Tokenization Framework: Empowering E-Commerce Investment with
   Secured, Transparent, and Scalable Solutions
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src=".gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
 
-[Qupital ](<README (2).md#qupital>)as a leading e-commerce merchant credit underwriter in Greater China, introduces a tokenization framework that transforms e-commerce assets into tradeable digital tokens.&#x20;
+[Qupital ](<README (2).md#qupital>)as a leading e-commerce merchant credit underwriter in Greater China, introduces a tokenization framework that transforms e-commerce assets into tradeable digital tokens.
 
 Through this framework, [Qupital ](<README (2).md#qupital>)converts future cash flows, receivables and inventory assets into Royalty Tokens, enabling direct investment into e-commerce stores' cash flows.
 
