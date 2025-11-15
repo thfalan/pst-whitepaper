@@ -39,7 +39,7 @@
 * [Royalty Token](quick-start/royalty-token.md)
 * [Berachain](quick-start/berachain.md)
 * [Ethena USDe](quick-start/ethena-usde.md)
-* [Qupital](quick-start/qupital.md)
+* [E-commerce Lender](quick-start/e-commerce-lender.md)
 
 ## Appendix
 
