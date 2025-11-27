@@ -8,11 +8,11 @@ Royalty Tokens are berachain native, swapping on berachain provides almost insta
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-LiquidRoyalty seeds the initial liquidity against USDe (e.g. SAIL.r / USDe), swapping from USDe (berachain) to USDe is the most direct and cheapest method.
+The most direct and cost-effective method to acquire Royalty Token like SAIL.r on Berachain is to swap USDe for it, as a liquidity pool already exists for SAIL.r / USDe pair
 
 To obtain USDe (berachain), there are 2 options available:
 
-### Option 1 - Enso Bridge on [liquidroyalty.com/bridge](https://www.liquidroyalty.com/bridge)
+### Option 1 - Bridging on [liquidroyalty.com/bridge](https://www.liquidroyalty.com/bridge)
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
