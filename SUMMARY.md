@@ -37,7 +37,9 @@
 ## Quick Start
 
 * [Royalty Token](quick-start/royalty-token/README.md)
-  * [How to Buy](quick-start/royalty-token/how-to-buy.md)
+  * [Base | Ethereum | Arbitrum | Polygon](quick-start/royalty-token/base-or-ethereum-or-arbitrum-or-polygon.md)
+  * [Berachain](quick-start/royalty-token/berachain.md)
+  * [Kodiak Finance](quick-start/royalty-token/kodiak-finance.md)
 * [Berachain](quick-start/berachain.md)
 * [Ethena USDe](quick-start/ethena-usde.md)
 * [E-commerce Lender](quick-start/e-commerce-lender.md)
