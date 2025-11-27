@@ -38,7 +38,7 @@
 
 * [Royalty Token](quick-start/royalty-token/README.md)
   * [Base | Ethereum | Arbitrum | Polygon](quick-start/royalty-token/base-or-ethereum-or-arbitrum-or-polygon.md)
-  * [Berachain](quick-start/royalty-token/berachain.md)
+  * [Berachain Native](quick-start/royalty-token/berachain-native.md)
   * [Kodiak Finance](quick-start/royalty-token/kodiak-finance.md)
 * [Berachain](quick-start/berachain.md)
 * [Ethena USDe](quick-start/ethena-usde.md)
