@@ -43,3 +43,4 @@ For Berachain
 [berachain-native.md](berachain-native.md)
 {% endcontent-ref %}
 
+Note: Depending on the chain, you need to acquire the appropriate gas token to complete transactions, e.g. BERA on Berachain, ETH on Base/Ethereum/Arbitrum, POL on Polygon
