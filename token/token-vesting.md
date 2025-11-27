@@ -8,7 +8,7 @@ description: >-
 
 Initially only 10% of the Royalty Token are sold in pre-sale and 10% Royalty Token are locked in liquidity pool. The below illustrates how the remaining tokens will become unlocked.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 For merchants, unlocking their tokens is tied directly to business performance. This vesting mechanism ensures that the merchants' interests align with Royalty Token holders:
 
