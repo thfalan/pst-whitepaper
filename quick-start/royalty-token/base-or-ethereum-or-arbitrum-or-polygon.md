@@ -1,15 +1,21 @@
 ---
-description: Cross-chain Swap
+description: 1-Click Cross-chain Swap
 ---
 
 # Base | Ethereum | Arbitrum | Polygon
 
+LiquidRoyalty supports cross-chain swaps from Base, Ethereum, Arbitrum or Polygon to SAIL.r (Berachain) with our cross-chain swap integration.
 
+Currently supported assets:
 
-LiquidRoyalty supports cross-chain swaps from Base, Ethereum, Arbitrum or Polygon to SAIL.r on berachain with our multi-chain integration on liquidroyalty.com/xxxx
-
-Currently supported crypto:
-
-* USDe (Base, Arbitrum, Ethereum)
-* USDC (Base, Ethereum, Arbitrum, Polygon)
+* Ethena USDe&#x20;
+  * Base
+  * Ethereum
+  * Arbitrum
+  * Polygon
+* Circle USDC
+  * Base
+  * Ethereum
+  * Arbitrum
+  * Polygon
 
