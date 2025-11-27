@@ -37,6 +37,8 @@
 ## Quick Start
 
 * [Royalty Token](quick-start/royalty-token/README.md)
+  * [Page](quick-start/royalty-token/page.md)
+  * [Page 1](quick-start/royalty-token/page-1.md)
   * [How to Buy](quick-start/royalty-token/how-to-buy.md)
 * [Berachain](quick-start/berachain.md)
 * [Ethena USDe](quick-start/ethena-usde.md)
