@@ -1,4 +1,4 @@
-# Royalty Token
+# Intro
 
 All royalty tokens in the Liquid Royalty Protocol are **10% Royalty Tokens**, which means for every $100 sales a shop made, $10 will be tokenized and distributed to royalty token holders via airdrop.
 
