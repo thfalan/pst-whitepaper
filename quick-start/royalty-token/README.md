@@ -9,4 +9,4 @@ Royalty token holders are only eligible for airdrops if they are holding the tok
 ## Royalty Tokens List
 
 * SAIL.r (Berachain)
-  * Address: 0x59a61b8d3064a51a95a5d6393c03e2152b1a2770
+  * Address: [0x59a61b8d3064a51a95a5d6393c03e2152b1a2770](https://berascan.com/address/0x59a61b8d3064a51a95a5d6393c03e2152b1a2770)
