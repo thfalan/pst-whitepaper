@@ -4,7 +4,7 @@ hidden: true
 
 # M\&A
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 M\&A activities create substantial value for the Royalty Token ecosystem.
 

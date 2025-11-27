@@ -40,6 +40,7 @@
   * [Base | Ethereum | Arbitrum | Polygon](quick-start/royalty-token/base-or-ethereum-or-arbitrum-or-polygon.md)
   * [Berachain Native](quick-start/royalty-token/berachain-native.md)
   * [Kodiak Finance](quick-start/royalty-token/kodiak-finance.md)
+  * [CEX - Binance, OKX, Coinbase](quick-start/royalty-token/cex-binance-okx-coinbase.md)
 * [Berachain](quick-start/berachain.md)
 * [Ethena USDe](quick-start/ethena-usde.md)
 * [E-commerce Lender](quick-start/e-commerce-lender.md)
