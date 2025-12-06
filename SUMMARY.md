@@ -27,7 +27,7 @@
 * [Roadmap & Future Outlook](dao/roadmap-and-future-outlook.md)
 * [DAO Overview](dao/dao-overview.md)
 * [Governance](dao/governance.md)
-* [Collateral](dao/collateral.md)
+* [Collaterals](dao/collateral.md)
 * [M\&A](dao/m-and-a.md)
 
 ***
