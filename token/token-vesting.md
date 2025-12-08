@@ -38,4 +38,4 @@ This mechanism ensures:
 * Market stability through adequate liquidity to protect against selling pressure
 * Gradual token distribution based on performance
 
-Qupital is also subject to the same vesting requirements.
+Asset originator is also subject to the same vesting requirements.

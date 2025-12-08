@@ -2,7 +2,7 @@
 description: Real-Time Monitoring and Adaptive Action
 ---
 
-# Collateral
+# Collaterals
 
 The data integration tracks several live metrics of the stores, including but not limited to:
 
@@ -15,4 +15,4 @@ Based on the live metrics, operator can act on the collateral very quickly, coll
 
 * Store credentials
 * Merchant crypto assets
-* Physical inventory, executed by Qupital through traditional legal framework
+* Physical inventory, executed by Admin Trustee through traditional legal framework

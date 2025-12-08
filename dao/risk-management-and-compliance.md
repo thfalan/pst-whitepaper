@@ -1,7 +1,7 @@
 ---
 description: >-
-  Safeguarding the Royalty Token Ecosystem with Proactive Security and Credit Risk
-  Strategies
+  Safeguarding the Royalty Token Ecosystem with Proactive Security and Credit
+  Risk Strategies
 ---
 
 # Risk Management & Compliance
@@ -10,23 +10,14 @@ description: >-
    1. Liquid Royalty Protocol manages two primary risk categories:
       1. **Credit Risk:** The potential failure of e-shops to meet revenue targets.
       2. **Platform Security Risks:** Smart contract vulnerabilities, systemic liquidity issues, and governance risks.
-
-
-
 2. **Credit Risk Mitigation**
    1. **Performance-Linked Stake:** Every merchant listing is backed by a locked 15% of market cap in [ALAR](<../README (2).md#automated-liquidity-assurance-reserve-alar>), ensuring incentive alignment.
-   2. [**Qupital’s** ](<../README (2).md#qupital>)**Risk Analytics:** Leverages API-driven financial data from 20,000+ e-commerce merchants to assess underwriting quality.
+   2. **Risk Analytics:** Leverages API-driven financial data from e-commerce merchants to assess underwriting quality.
    3. **Revenue Interception Model:** Liquid Royalty Protocol's smart contracts directly enforce a 10% gross revenue share, preventing underreporting.
-
-
-
 3. **Platform Security & Smart Contract Protections**
    1. **Audited Smart Contracts:** All protocol contracts undergo independent security audits.
    2. **Multi-Sig & Governance Security:** Critical treasury decisions require [DAO ](<../README (2).md#dao-decentralized-autonomous-organization>)approval.
    3. **Regulatory Insurance Protection:** Royalty Token holders benefit from **regulated exchange partner insurance mechanisms** in jurisdictions where applicable.
-
-
-
 4. **Price Stabilising Mechanism**
 
 Market sentiment can sometimes lead to irrational fluctuations in token prices, deviating from their fair value. To maintain price stability and respond to such market behavior, Royalty Token implements the following strategies through the ALAR mechanism:

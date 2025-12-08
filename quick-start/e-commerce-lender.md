@@ -2,7 +2,7 @@
 
 Our protocol partners with established, data-driven lenders who have a proven track record in the e-commerce financing space. These partners bring a curated network of high-performing online merchants and sophisticated risk management practices to the ecosystem.
 
-The strength of our lending partners is demonstrated by their historical performance. For instance, a local Hong Kong lender, **Qupital**, has funded over $2 billion in merchandise with a remarkably low default rate of 0.1% across eight years of operation. This level of performance is achieved through a multi-layered approach:
+The strength of our lending partners is demonstrated by their historical performance. For instance, a local Hong Kong lender, **Qupital**, has funded over $6 billion in merchandise with a remarkably low default rate of 0.1% across eight years of operation. This level of performance is achieved through a multi-layered approach:
 
 * **Real-Time Business Monitoring:** Merchants connect their online shop APIs directly to our lending partners. This allows for real-time, transparent monitoring of sales performance, enabling dynamic and data-informed lending decisions.
 * **Access to High-Growth Segments:** Our network specializes in high-velocity e-commerce segments, particularly Chinese cross-border merchants, many of whom consistently achieve 50-100% year-on-year growth.
@@ -10,4 +10,4 @@ The strength of our lending partners is demonstrated by their historical perform
 
 **Tokenizing Top-Tier E-Commerce Performance**
 
-This rigorous framework allows our partners to identify and source the very top 1% of merchants from a vast pool of thousands. We then tokenize these vetted businesses into Royalty Tokens. This process provides merchants with a novel form of non-dilutive growth capital and distributes real, revenue-generated yields to token holders.
+&#x20;The protocol tokenize these vetted businesses into Royalty Tokens. This process provides merchants with a novel form of non-dilutive growth capital and distributes real, revenue-generated yields to token holders.

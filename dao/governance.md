@@ -18,10 +18,9 @@ Provide capital through token purchases and receive dividends generated from sto
 
 Drive market activity and promote Royalty Token.
 
-**Qupital (Operator)**
-
-Act as credit assessors to screen and select quality stores for initial offering, monitoring financials and verifying growth targets. Conduct due diligence to maintain high-quality Royalty Token-backed assets. Qupital proposes votes based on requests from Merchants and Token Holders and manages offline collateral for the DAO.  Receives vested tokens tied to growth targets. Maintain protection treasury to absorb LP losses and align with ecosystem growth.
+**Admin Trustee**\
+Monitoring of financials and verifying of growth targets. Conduct due diligence to maintain high-quality Royalty Token-backed assets. Admin trustee proposes votes based on requests from Merchants and Token Holders and manages offline collateral for the DAO. Receives vested tokens tied to growth targets. Maintain protection treasury to absorb LP losses and align with ecosystem growth.
 
 **Collateral**
 
-Both online (cryptocurrencies, Web2 credentials) collateral pledged by merchants is governed by the DAO, with the operator as executor.
+Both online (cryptocurrencies, Web2 credentials) collateral pledged by merchants is governed by the DAO, with the **Admin Trustee** as executor.

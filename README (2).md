@@ -4,10 +4,6 @@
 
 A dynamic interest rate model that adjusts staking and liquidity rewards in real-time based on market demand, risk levels, and liquidity conditions.
 
-#### **Airwallex**
-
-**Airwallex** is a global financial technology company that provides **cross-border payment solutions, multi-currency accounts, and financial infrastructure** for businesses of all sizes. It enables **fast, cost-effective, and seamless international transactions**, eliminating traditional banking inefficiencies.
-
 #### **Algorithmic Market Maker (AMM)**
 
 A decentralized trading mechanism that uses smart contracts to provide automated liquidity. AMMs replace traditional order books with liquidity pools, allowing for trustless token swaps.
@@ -63,6 +59,10 @@ A mechanism where users stake tokens and delegate their voting power or yield-ea
 #### **Dynamic Yield Adjustment (DYA)**
 
 A protocol mechanism that adjusts yield rates dynamically based on market conditions, liquidity levels, and risk factors.
+
+#### **E-commerce payment gateway**
+
+global financial technology companies that provides **cross-border payment solutions, multi-currency accounts, and financial infrastructure** for businesses of all sizes. It enables **fast, cost-effective, and seamless international transactions**, eliminating traditional banking inefficiencies. The Protocol use this collect payment for its royalties
 
 #### **E-commerce Tokenization**
 
@@ -134,9 +134,7 @@ A digital token representing fractional ownership of tokenized e-commerce cash f
 
 A liquidity model where the protocol itself owns and manages liquidity pools, ensuring stability and reducing reliance on external LPs.
 
-#### **Qupital**
 
-A leading e-commerce financier managing $2B+ in loans since 2018. Acts as Liquid Royalty Protocol's underwriter, vetting merchants using real-time sales data and maintaining a 0.1% default rate.
 
 #### **Revenue-Based Financing (RBF)**
 

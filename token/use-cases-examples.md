@@ -8,7 +8,7 @@ description: >-
 
 **1. Royalty Token as a Primary Market Investment Tool**
 
-* **Mimicking an IPO:** Upon approval by Qupital & Originators, merchants can access **up to 10% equity financing at a 10 P/E ratio** through subscribers across **DigiFT, Qupital LPs, and DeFi LaunchPads**.
+* **Mimicking an IPO:** Upon approval by Originators, merchants can access **up to 10% equity financing at a 10 P/E ratio** through subscribers across **Exchanges, Asset Originator, and DeFi LaunchPads**.
 * **Rapid Listing vs. Traditional IPOs:** Royalty Token offers listing within weeks instead of 2+ years, avoiding inefficient processes like roadshows and underwriter fees.
 
 **2. Investor Yield Optimization Strategies**

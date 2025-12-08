@@ -4,15 +4,13 @@ description: >-
   Secured, Transparent, and Scalable Solutions
 ---
 
-# Royalty Token - Token originator & initial offering
+# Royalty Token generation quality assurane
 
 <figure><img src=".gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
 
-[Qupital ](<README (2).md#qupital>)as a leading e-commerce merchant credit underwriter in Greater China, introduces a tokenization framework that transforms e-commerce assets into tradeable digital tokens.
 
-Through this framework, [Qupital ](<README (2).md#qupital>)converts future cash flows, receivables and inventory assets into Royalty Tokens, enabling direct investment into e-commerce stores' cash flows.
 
-[Qupital ](<README (2).md#qupital>)implements a dual-control system over merchant operations:
+The protocol implements a dual-control system over merchant operations:
 
 1. Revenue Control: Integration with programmable banking infrastructure to secure all sales proceeds
 2. Store Access Management: Store credentials are encrypted and bound to smart contracts
