@@ -22,17 +22,11 @@ This framework ensures robust investor protection through:
 * Encrypted credential management through blockchain technologies
 * Smart contract-enforced operational policies
 
-[Qupital's ](<README (2).md#qupital>)merchant network covers all of China, including Shenzhen, the world leading e-commerce merchant hub and Guangzhou City:
-
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-In the first series of e-commerce tokenizations, [Qupital ](<README (2).md#qupital>)carefully selects the best performing Chinese cross-border sellers from [Qupital's ](<README (2).md#qupital>)portoflio of over 15,000 stores.
-
-[Qupital's ](<README (2).md#qupital>)e-commerce data integration tracks real-time multi-party performance metrics of all merchant stores, this enable [Qupital ](<README (2).md#qupital>)to analyze the following parameters with ease:
+Credit Assessor's e-commerce data integration tracks real-time multi-party performance metrics of all merchant stores, this enable Credit Assessor[ ](<README (2).md#qupital>)to analyze the following parameters with ease:
 
 * **Strong financial track record** - demonstrates high growth in the past 2 years
 * **Product edge** - Low return rate and low [DIO (days inventory outstanding)](<README (2).md#days-inventory-outstanding-dio>) indicates merchant is able to consistently locate high quality products in a highly competitive environment
-* **Operational edge** - [Qupital ](<README (2).md#qupital>)analyses the full historical record of all the stores to find merchants with an operational excellence, such as merchants who are able to capitalize promotional events (e.g. Black Friday and Christmas) better than their peers
+* **Operational edge** - Credit Assessor[ ](<README (2).md#qupital>)analyses the full historical record of all the stores to find merchants with an operational excellence, such as merchants who are able to capitalize promotional events (e.g. Black Friday and Christmas) better than their peers
 * **Perfect repayment history** - merchants that have no history of delinquency
 * **Data Integrity** - Trustworthy data cross validated by multiple third party sources including ecommerce platforms and payment service providers
 
