@@ -6,7 +6,7 @@ description: >-
 
 # Royalty Token generation quality assurane
 
-<figure><img src=".gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Deck.webp" alt=""><figcaption></figcaption></figure>
 
 
 
