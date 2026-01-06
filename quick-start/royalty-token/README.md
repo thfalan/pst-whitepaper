@@ -4,7 +4,7 @@ Royalty Tokens by default are **10% Royalty Tokens**, which means for every $10 
 
 At each RTGE (Royalty Token Generation Event), it doesn't affect day-to-day operations of the merchants, but they are required to follow a **Low float High FDV** model with most of their tokens (74%) locked in a **Performance-Linked Stake,** and 10% of FDV are used to seed initial liquidit&#x79;**.** Only if merchants hit their annual growth target (100%) a small portion of 10% is unlocked.
 
-Royalty token holders are only eligible for daily airdrops if they are holding the token at the weekly snapshot - currently scheduled on every monday.
+Royalty token holders are only eligible for daily airdrops if they are holding the token when LiquidRoyalty take holding snapshot at the start of the week - currently scheduled on every monday
 
 ## Royalty Tokens List
 
