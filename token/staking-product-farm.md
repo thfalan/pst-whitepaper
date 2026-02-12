@@ -6,15 +6,15 @@ description: 'Liquid Staking: Diversified Staking for Every Investor'
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-11 at 10.03.17 AM.png" alt=""><figcaption><p>Yield Farming Tranches</p></figcaption></figure>
 
-LiquidRoyalty offers three distinct staking products, allowing you to choose your preferred balance of risk and reward. Our innovative tiered system ensures sustainable yields for all participants.
+LiquidRoyalty currently offers 3 ERC-4626 compliant Vaults:
 
-1. **🏦 Senior Tranche (snrUSD) - Liquid Rebasing**
+1. **🏦 Senior Tranche (snrUSD) - Monthly Rebalancing**
 
 * **For:** The conservative investor.
 * **Profile:** You prioritize capital preservation and a predictable, stablecoin-denominated return.
 * **How it Works:** Your yield is **guaranteed** by the ALAR vault, offering a fixed APY of 11-13%—the highest priority payout in the ecosystem.
 
-2. **⚡ Junior Tranche (JUNIOR) - Liquid Staking**
+2. **⚡ Junior Tranche (JNR) - Liquid Staking**
 
 * **For:** The growth-oriented investor.
 * **Profile:** You are comfortable with higher volatility for a significantly amplified return.
