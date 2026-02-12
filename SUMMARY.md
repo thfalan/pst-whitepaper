@@ -18,7 +18,7 @@
 * [Token Overview](token/token-overview.md)
 * [Use Cases / Examples](token/use-cases-examples.md)
 * [Token Vesting](token/token-vesting.md)
-* [Liquid Staking](token/staking-product-farm.md)
+* [Vaults](token/staking-product-farm.md)
 
 ## DAO
 

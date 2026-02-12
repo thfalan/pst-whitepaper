@@ -1,8 +1,8 @@
 ---
-description: 'Liquid Staking: Diversified Staking for Every Investor'
+description: LiquidRoyalty RWA Vaults
 ---
 
-# Liquid Staking
+# Vaults
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-11 at 10.03.17 AM.png" alt=""><figcaption><p>Yield Farming Tranches</p></figcaption></figure>
 
