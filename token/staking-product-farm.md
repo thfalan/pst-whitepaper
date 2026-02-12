@@ -24,6 +24,5 @@ LiquidRoyalty currently offers 3 ERC-4626 compliant Vaults:
 
 * **For:** The long-term ecosystem believer.
 * **Profile:** You are invested in the protocol's health and sustainability.
-* **How it Works:** ALAR stakers receive **20% of the excess yield**, which directly funds the Senior guarantee, ensuring its long-term reliability and creating a virtuous cycle of growth.
+* **How it Works:** ALAR stakers receive **20% of the excess yield**, which directly funds the Senior guarantee, ensuring its long-term reliability and creating a virtuous cycle of growth**Fees**
 
-**Transparent Fees:** A 1% annual management fee (charged monthly) and a 2% performance fee upon unstaking ensure the continued development and security of the protocol.
