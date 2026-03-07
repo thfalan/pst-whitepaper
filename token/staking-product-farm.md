@@ -14,6 +14,7 @@ LiquidRoyalty currently offers 3 ERC-4626 compliant Vaults:
 * **Profile:** You prioritize capital preservation and a predictable, stablecoin-denominated return.
 * **How it Works:** Your yield is **guaranteed** by the ALAR vault, offering a fixed APY of 11-13%—the highest priority payout in the ecosystem.
 * **Yield Payout Method:** Yield is paid in form of more snrUSD (11-13% APY equivalent) airdropped to snrUSD holders during rebalance, purpose is to preserve ability to integrate with other DeFi protocols (e.g. DEX, Lending).
+* Yield Spillover only happens when total assets in the vault is over 110% of snrUSD circulation
 
 
 
