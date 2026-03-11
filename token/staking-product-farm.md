@@ -15,6 +15,7 @@ LiquidRoyalty currently offers 3 ERC-4626 compliant Vaults:
 * **How it Works:** Your yield is **guaranteed** by the ALAR vault, offering a fixed APY of 11-13%—the highest priority payout in the ecosystem.
 * **Yield Payout Method:** Yield is paid in form of more snrUSD (11-13% APY equivalent) airdropped to snrUSD holders during rebalance, purpose is to preserve ability to integrate with other DeFi protocols (e.g. DEX, Lending).
 * Yield Spillover only happens when total assets in the vault is over 110% of snrUSD circulation
+* **Cooldown**: User can withdraw USDe 7 days after initiating cooldown, snrUSD in cooldown WILL NOT receive yield airdrops.
 
 
 
@@ -24,6 +25,7 @@ LiquidRoyalty currently offers 3 ERC-4626 compliant Vaults:
 * **Profile:** You are comfortable with higher volatility for a significantly amplified return.
 * **How it Works:** You capture **80% of all yield generated above the Senior Tranche's guarantee**, offering uncapped upside potential, spillover happens during rebalance.
 * **Yield Payout Method:** Through JNR share price appreciation.
+* **Cooldown**: User can withdraw USDe 7 days after initiating cooldown, JNR:USDe rate is based on the time of cooldown initiation.
 
 
 
@@ -33,4 +35,5 @@ LiquidRoyalty currently offers 3 ERC-4626 compliant Vaults:
 * **Profile:** You are invested in the protocol's health and sustainability.
 * **How it Works:** ALAR stakers receive **20% of the excess yield**, which directly funds the Senior guarantee, ensuring its long-term reliability and creating a virtuous cycle of growth**Fees**
 * **Yield Payout method:** spillover happens during rebalance.
+* **Cooldown**: User can withdraw USDe 7 days after initiating cooldown, ALAR:USDe rate is based on the time of cooldown initiation.
 
