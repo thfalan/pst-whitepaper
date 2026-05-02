@@ -17,6 +17,8 @@ LiquidRoyalty currently offers 3 ERC-4626 compliant Vaults:
 * Yield Spillover only happens when total assets in the vault is over 110% of snrUSD circulation
 * **Cooldown**: User can withdraw USDe 7 days after initiating cooldown, snrUSD in cooldown WILL NOT receive yield airdrops.
 
+Note: Only users with balance more than 0.01 snrUSD will receive monthly airdrop distribution
+
 
 
 2. **⚡ Junior Tranche (JNR) - Liquid Staking**
