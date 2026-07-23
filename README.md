@@ -16,9 +16,9 @@ Enter the **Liquid Royalty Protocol**, a revolutionary blockchain-native solutio
 
 Key features of Liquid Royalty Protocol include:
 
-* **Enforced Dividends**: Smart contracts capture a fixed 10% of merchant **topline revenue** at the point of sale, converting it into stablecoin dividends distributed pro-rata to Royalty Token holders.
+* **Enforced Dividends**: Smart contracts capture a fixed 10% of merchant **topline revenue** at the point of sale; royalties are settled weekly and streamed daily, pro-rata to Royalty Token holders.
 * **Hybrid Web2/Web3 Architecture**: Proprietary Key Permission Smart Contracts (KPSC) integrate with platforms like Amazon, Shopify, and Airwallex, ensuring automatic revenue sharing without merchant discretion.
-* **Risk-Tailored Tranching**: Investors can choose from senior or junior tranches, aligning returns with their risk appetite while eliminating 80% of the overhead seen in traditional securitization.
+* **Risk-Tailored Tranching**: Investors can choose Senior (**11% APY floor · 13% cap**), Junior (80% of yield above the cap), or Protocol Reserve / ALAR exposure, aligning returns with risk appetite while cutting traditional securitization overhead.
 * **On-Chain Transparency**: Every transaction, dividend payout, and governance vote is recorded immutably on the blockchain, offering real-time auditability.
 
 Liquid Royalty Protocol democratizes access to private equity-like returns, offering institutional-grade royalty sharing of 10% fixed on **topline revenue** with the liquidity and accessibility of public markets. Investors can participate with as little as $100, bypassing the traditional $500,000 minimums. Moreover, the protocol is collateralized by recurring cash flows from high-growth e-commerce businesses, ensuring stability and security for investors.

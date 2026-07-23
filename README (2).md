@@ -18,7 +18,7 @@ A protocol that continuously analyzes on-chain and off-chain data (e.g., sales p
 
 #### **Automated Liquidity Assurance Reserve (ALAR)**
 
-A decentralized reserve pool that guarantees minimum yields for senior tranche investors. ALAR combines merchant collateral, chain incentives, and stablecoin rewards to stabilize returns and absorb liquidity risks. ALAR buyback or sell token to stabilise prices solely based on the Price-to-Earning ratio (PE), with 8 PE as the target buyback price and 15 PE as the target sell price.
+Also referred to as the **Protocol Reserve**. A decentralized reserve pool that helps back the Senior Vault’s **11% APY floor · 13% cap**. ALAR combines merchant collateral, chain incentives, and stablecoin rewards to stabilize returns and absorb liquidity risks. ALAR may buy back or sell tokens to stabilize prices based on the Price-to-Earnings ratio (PE), with 8 PE as the target buyback price and 15 PE as the target sell price.
 
 #### **Bridge Protocol**
 
@@ -124,11 +124,15 @@ A decentralized system that feeds external real-world data (e.g., asset prices, 
 
 #### **Performance-Linked Stake**
 
-Collateral (15% of merchant market cap) locked in ALAR. Gradually unlocks as merchants hit revenue targets, aligning merchant incentives with investor returns.
+Merchant collateral locked in ALAR (Protocol Reserve). Exact size is set per listing / RTGE. References elsewhere to “15% of market cap” (or similar percentages of supply) are **illustrative only**, not a fixed protocol requirement. Gradually unlocks as merchants hit revenue targets, aligning merchant incentives with investor returns.
+
+#### **Royalty Token Generation Event (RTGE)**
+
+The on-chain launch of a merchant’s Royalty Token (listing + initial liquidity design). Launch floats and any optional pre-sale are decided per RTGE; illustrative percentages elsewhere in this whitepaper are not a fixed framework.
 
 #### **Royalty Token**
 
-A digital token representing fractional ownership of tokenized e-commerce cash flows. Delivers automated 10% gross revenue dividends via smart contracts and grants governance rights.
+A digital token representing fractional ownership of tokenized e-commerce cash flows. Delivers automated 10% gross revenue dividends via smart contracts (captured at the point of sale, settled weekly, streamed daily) and may grant governance rights.
 
 #### **Protocol-Owned Liquidity (POL)**
 
@@ -148,7 +152,7 @@ A set of automated security measures, including audit trails, kill switches, and
 
 An on-chain, programmatic wallet that automatically collects intercepted merchant revenue, converts it to stablecoins, and distributes dividends to Royalty Token holders. Features:
 
-* **Automation**: No manual intervention; payouts occur monthly via immutable code.
+* **Automation**: No manual intervention; royalties are settled weekly and streamed daily via immutable code.
 * **Transparency**: All transactions are logged on-chain for real-time auditing.
 * **Security**: Funds are custodied in MPC wallets until distribution.
 
@@ -156,12 +160,13 @@ An on-chain, programmatic wallet that automatically collects intercepted merchan
 
 A blockchain-based financial instrument that represents a claim on a predefined portion of a company's future revenue.
 
-#### **Tranche**
+#### **Tranche / Vault**
 
-Risk-tiered investment categories:
+Risk-tiered investment categories in the LiquidRoyalty vault stack:
 
-* **Senior Tranche**: Prioritized payouts (11-13% APY), backed by ALAR.
-* **Junior Tranche**: Higher-risk, variable returns (up to 300% APY), eligible for governance rewards.
+* **Senior Vault (snrUSD)**: Prioritized payouts with an **11% APY floor · 13% cap**, backed by Junior and ALAR (Protocol Reserve).
+* **Junior Vault (JNR)**: Private, variable returns; receives **80% of yield above Senior’s cap**.
+* **Protocol Reserve (ALAR)**: Receives **20% of yield above Senior’s cap** and helps support the Senior floor.
 
 #### **Yield Farm**
 

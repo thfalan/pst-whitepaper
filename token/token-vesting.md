@@ -6,7 +6,9 @@ description: >-
 
 # Token Vesting
 
-Initially only 10% of the Royalty Token are sold in pre-sale and 10% Royalty Token are locked in liquidity pool. The below illustrates how the remaining tokens will become unlocked.
+> **Illustration only:** Percentages and the optional **pre-sale** described here are examples of how a listing *could* be structured. They are **not** a fixed launch framework. A pre-sale is **optional** and may be omitted, resized, or given a different vesting schedule per RTGE.
+
+In one illustrative setup, 10% of the Royalty Token supply is sold in an optional pre-sale and 10% is locked in the liquidity pool. The diagram below shows how remaining tokens might unlock over time.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 

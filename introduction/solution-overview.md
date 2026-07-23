@@ -14,16 +14,16 @@ Liquid Royalty Protocol creates Royalty Tokens distributing regular stablecoin d
 
 1. **Revenue Capture:** Merchant sales revenue is automatically directed via integrations (e.g., payment gateways) to a smart contract controlled bank account.
 2. **Automated Processing:** The smart contract then automatically:
-   * **Segregates Royalty Share:** Isolates the pre-agreed percentage of revenue - currently set at 10% based on market carp and profit margins of our typical merchant profiles.
+   * **Segregates Royalty Share:** Isolates the pre-agreed percentage of revenue - currently set at 10% based on market cap and profit margins of our typical merchant profiles.
    * **Converts to Stablecoins:** Converts this royalty share to stablecoins, transferring them to the Royalty Token Dividend Wallet.
    * **Remits to Merchant:** Returns the remaining topline cashflow (e.g. $90) to the merchant.
-3. **Dividend Distribution:** Monthly, accumulated stablecoins in the Dividend Wallet are distributed pro-rata to Royalty Token holders and Liquidity Pool.
+3. **Dividend Distribution:** Royalties are captured at the point of sale, settled weekly, and streamed to holders daily, pro-rata to Royalty Token holders and the Liquidity Pool.
 
 This ensures only the agreed royalty is tokenized, merchants receive their operational revenue promptly, and investors earn stablecoin dividends from e-commerce revenue.
 
 **Structured Investment Products**
 
-Beyond the core token, Liquid Royalty Protocol supports structured products like Senior (Fixed 11-13% APY) and Junior tranches (spillover yield). These are backed by diversified pools of tokenized royalty shares from various merchants, allowing investors to tailor risk and return.
+Beyond the core token, Liquid Royalty Protocol supports structured products: the Senior Vault (snrUSD) with an **11% APY floor · 13% cap**, backed by Junior and the Protocol Reserve (ALAR); and the Junior Vault (JNR), a private variable-return tranche that receives **80% of yield above Senior’s cap** (Protocol Reserve receives the remaining 20% and helps support the floor). These are backed by diversified pools of tokenized royalty shares from various merchants, allowing investors to tailor risk and return.
 
 **Key Features & Benefits:**
 

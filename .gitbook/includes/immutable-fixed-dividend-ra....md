@@ -9,7 +9,7 @@ title: Immutable Fixed Dividend Ra...
 
 ### **1. Fixed Dividend Rate: Immutable Investor Protection**
 
-The Liquid Royalty protocol enforces a **fixed dividend rate of 10% of gross sales revenue**, irrevocably encoded into the smart contract at the pre-sale stage. This rate applies to all tokenized e-commerce stores and remains immutable throughout the token lifecycle, ensuring:
+The Liquid Royalty protocol enforces a **fixed dividend rate of 10% of gross sales revenue**, irrevocably encoded into the smart contract at listing / RTGE (an optional pre-sale, if any, does not redefine this rate). This rate applies to all tokenized e-commerce stores and remains immutable throughout the token lifecycle, ensuring:
 
 * **No Discretionary Adjustments**: Eliminates issuer or operator interference, protecting investors from dilution or arbitrary rate reductions.
 * **Gross Revenue Basis**: Dividends are calculated on total sales (pre-expenses), insulating returns from merchant operational inefficiencies.
@@ -54,7 +54,7 @@ Dividends are distributed as **stablecoin** (USDe) via a fully automated pipelin
 2. **On-Chain Minting**:
    * Stablecoins are minted as on Royalty Token's native chain for cross-DEX compatibility.
 3. **Pro-Rata Airdrops**:
-   * A Smart Contract Dividend Wallet distributes tokens monthly to Royalty Token holders' wallets, weighted by holdings.
+   * A Smart Contract Dividend Wallet streams stablecoins to Royalty Token holders’ wallets (settled weekly, streamed daily), weighted by holdings.
    * Transactions are immutably logged on-chain, with real-time dashboards for institutional auditing.
 
 ***

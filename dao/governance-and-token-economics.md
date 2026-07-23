@@ -27,10 +27,10 @@ description: >-
 
 The platform's fee model is designed to align incentives and ensure long‑term commitment:
 
-* **Performance-Linked Stake:** Merchants must lock up 15% of their market cap as a Performance‑Linked Stake. These funds are held in [ALAR ](<../README (2).md#automated-liquidity-assurance-reserve-alar>)and are gradually unlocked as revenue targets are met. This mechanism not only secures merchant commitment but also enhances yield for stakers by backing the Super Senior Tranche.
+* **Performance-Linked Stake:** Merchants typically lock a Performance‑Linked Stake sized per listing (illustrative figures such as “15% of market cap” are **not** a fixed rule). These funds are held in [ALAR](<../README (2).md#automated-liquidity-assurance-reserve-alar>) (Protocol Reserve) and are gradually unlocked as revenue targets are met. This mechanism not only secures merchant commitment but also helps back the **Senior Vault**’s **11% APY floor · 13% cap**.
 * **Management & Carry Fees:** The platform charges a 1% management fee and a 2% performance‑based carry fee—applied only if stakers are profitable over their staking period. This fee structure ensures that fees are collected solely when the platform delivers positive returns, mirroring best practices in private credit while maintaining transparency.
 * **Urgent Liquidation Fee:** To discourage opportunistic short‑term staking solely for dividend capture, any unstaking within the first week incurs a 20% penalty fee. This fee safeguards the liquidity pool by ensuring participants remain committed for a meaningful period.
-* **Spillover & ALAR Protection Mechanism:** 20% of spillover from senior to junior tranche flows to [ALAR](<../README (2).md#automated-liquidity-assurance-reserve-alar>). When ALAR covers the 11% senior tranche guarantee, junior tranche participants face an additional 1-month lock-up (or pay the 20% urgent liquidation fee to unstake early).
+* **Spillover & ALAR Protection Mechanism:** Of yield above Senior’s **13% cap**, Junior receives 80% and [ALAR](<../README (2).md#automated-liquidity-assurance-reserve-alar>) (Protocol Reserve) receives 20%. When ALAR is supporting the Senior **11% floor**, Junior participants may face an additional 1-month lock-up (or pay the 20% urgent liquidation fee to unstake early).
 
 **4. The Business Hook**
 

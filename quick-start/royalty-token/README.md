@@ -1,12 +1,23 @@
 # Royalty Token
 
-Royalty Tokens by default are **10% Royalty Tokens**, which means for every $10 sales a shop made, $1 will be tokenized and distributed to royalty token holders via Airdrop.
+Royalty Tokens by default are **10% Royalty Tokens**, which means for every $10 of sales a shop makes, $1 is tokenized and distributed to royalty token holders via airdrop.
 
-At each RTGE (Royalty Token Generation Event), it doesn't affect day-to-day operations of the merchants, but they are required to follow a **Low float High FDV** model with most of their tokens (74%) locked in a **Performance-Linked Stake,** and 10% of FDV are used to seed initial liquidit&#x79;**.** Only if merchants hit their annual growth target (100%) a small portion of 10% is unlocked.
+**Royalties are captured at the point of sale, settled weekly, and streamed to holders daily.** Snapshots for daily streams are taken shortly before each airdrop. Dividend deposits into the distribution pipeline are typically done on a weekly basis (e.g. every Monday).
 
-Royalty token holders will receive daily airdrops, and snapshot is taken daily shortly before the airdrop happens.&#x20;
+## Launch float (illustrative — not a fixed framework)
 
-Dividend deposits are done on a weekly basis - specifically every monday.
+At each **RTGE** (Royalty Token Generation Event), day-to-day merchant operations continue as usual. Listings generally follow a **low float / high FDV** design, but the exact split is set per merchant.
+
+The numbers below are an **illustration only**. An optional **pre-sale is not required** for every launch; when used, its size and vesting are decided per RTGE.
+
+| Bucket (example) | % of supply (example) | Notes |
+| --- | --- | --- |
+| Liquidity seed | 10% | Initial DEX liquidity (e.g. Kodiak) |
+| Optional pre-sale | 10% | Optional; if used, vesting is listing-specific (may be multi-year) |
+| Performance-Linked Stake | majority (e.g. ~74% in this illustration) | Locked; unlocks against revenue growth targets |
+| Other / residual | remainder | Per listing docs |
+
+Only if merchants hit growth targets does a portion of the Performance-Linked Stake unlock over time.
 
 ## Royalty Tokens List
 

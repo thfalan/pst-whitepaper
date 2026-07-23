@@ -4,7 +4,7 @@ description: >-
   Secured, Transparent, and Scalable Solutions
 ---
 
-# Royalty Token generation quality assurane
+# Royalty Token generation quality assurance
 
 <figure><img src=".gitbook/assets/Deck.webp" alt=""><figcaption></figcaption></figure>
 

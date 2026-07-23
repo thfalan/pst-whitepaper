@@ -45,7 +45,7 @@ One of the main deterrents for investors in private credit markets is illiquidit
 A key concern for both SMBs and investors in traditional financing is financial stability and risk mitigation. ALAR functions as a decentralized liquidity reserve that absorbs market shocks and guarantees minimum yields for investors.
 
 * Relation to Liquid Royalty Protocol:
-  * ALAR ensures that senior tranche investors receive stable returns (8–11% APY) even in volatile market conditions.
+  * ALAR (Protocol Reserve) helps back Senior Vault investors’ **11% APY floor · 13% cap** even in volatile market conditions.
   * For SMBs, this means more predictable funding, reducing the uncertainty associated with traditional credit lines.
   * For investors, it offers institutional-grade yield stability without the counterparty risks of centralized financial institutions.
 
